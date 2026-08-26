@@ -87,11 +87,26 @@
     transition:width .25s ease,height .25s ease,background .25s ease,border-color .25s ease;
     mix-blend-mode:difference;
     will-change:transform;
+    display:flex;align-items:center;justify-content:center;
   }
   .cursor.big{
     width:52px;height:52px;
     background:transparent;
     border:1.5px solid var(--coral);
+  }
+  .cursor.view{
+    width:64px;height:64px;
+    background:var(--electric);
+    border:none;
+    mix-blend-mode:normal;
+  }
+  .cursor.view::after{
+    content:'VIEW';
+    font-family:'JetBrains Mono',monospace;
+    font-size:10.5px;
+    font-weight:700;
+    color:var(--bg);
+    letter-spacing:0.08em;
   }
   @media (hover:none){ .cursor{display:none;} body{cursor:auto;} }
 
@@ -798,9 +813,13 @@
   window.addEventListener('mousemove', e=>{
     cursor.style.transform = `translate(${e.clientX}px, ${e.clientY}px) translate(-50%,-50%)`;
   });
-  document.querySelectorAll('a, .service-row, .work-card, .magnetic-btn').forEach(el=>{
+  document.querySelectorAll('a:not(.work-card), .service-row, .magnetic-btn').forEach(el=>{
     el.addEventListener('mouseenter', ()=>cursor.classList.add('big'));
     el.addEventListener('mouseleave', ()=>cursor.classList.remove('big'));
+  });
+  document.querySelectorAll('.work-card').forEach(el=>{
+    el.addEventListener('mouseenter', ()=>cursor.classList.add('view'));
+    el.addEventListener('mouseleave', ()=>cursor.classList.remove('view'));
   });
 
   // scroll reveal
