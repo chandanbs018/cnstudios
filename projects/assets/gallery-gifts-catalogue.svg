@@ -1,0 +1,12 @@
+<svg width="460" height="320" viewBox="0 0 460 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <rect width="460" height="320" rx="20" fill="#141110" stroke="#2a2523" stroke-width="1"/>
+      <rect x="0" y="0" width="460" height="170" rx="20 20 0 0" fill="#191513"/>
+      <circle cx="230" cy="85" r="50" fill="#5ef1ff" opacity="0.15" filter="blur(15px)"/>
+      <text x="215" y="95" font-size="36">&#10022;</text>
+      <rect x="24" y="20" width="160" height="24" rx="6" fill="rgba(0,0,0,0.6)" stroke="#2a2523" stroke-width="1"/>
+      <text x="34" y="36" font-family="'JetBrains Mono', monospace" font-size="9.5" fill="#5ef1ff" letter-spacing="1">VISIONARY GIFT STUDIOS</text>
+      <text x="24" y="215" font-family="'Bricolage Grotesque', sans-serif" font-size="20" font-weight="800" fill="#f3ece5">CATALOGUE SHOWROOM</text>
+      <text x="24" y="248" font-family="'Space Grotesk', sans-serif" font-size="13" fill="#928a84">Frictionless category navigation across 48+ curated corporate gift collections.</text>
+      <line x1="24" y1="285" x2="436" y2="285" stroke="#2a2523" stroke-width="1"/>
+      <text x="24" y="305" font-family="'JetBrains Mono', monospace" font-size="11" fill="#5ef1ff">NC STUDIOS SHOWCASE &#8594;</text>
+    </svg>

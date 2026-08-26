@@ -1,0 +1,89 @@
+<svg width="1200" height="750" viewBox="0 0 1200 750" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="750" fill="#0d0b0a"/>
+  <defs>
+    <radialGradient id="gglow1" cx="75%" cy="25%" r="55%">
+      <stop offset="0%" stop-color="#5ef1ff" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#5ef1ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="gglow2" cx="25%" cy="75%" r="50%">
+      <stop offset="0%" stop-color="#9b7bff" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#9b7bff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gspec1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#5ef1ff"/>
+      <stop offset="50%" stop-color="#9b7bff"/>
+      <stop offset="100%" stop-color="#ea767d"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="750" fill="url(#gglow1)"/>
+  <rect width="1200" height="750" fill="url(#gglow2)"/>
+
+  <!-- Navigation -->
+  <rect x="0" y="0" width="1200" height="70" fill="rgba(18,15,14,0.92)"/>
+  <line x1="0" y1="70" x2="1200" y2="70" stroke="#2a2523" stroke-width="1"/>
+  <text x="60" y="44" font-family="'Bricolage Grotesque', sans-serif" font-size="19" font-weight="800" fill="#f3ece5" letter-spacing="-0.5">VISIONARY GIFT STUDIOS</text>
+  <text x="680" y="42" font-family="'Space Grotesk', sans-serif" font-size="13" fill="#5ef1ff">All Hampers</text>
+  <text x="790" y="42" font-family="'Space Grotesk', sans-serif" font-size="13" fill="#928a84">Onboarding</text>
+  <text x="890" y="42" font-family="'Space Grotesk', sans-serif" font-size="13" fill="#928a84">Festive</text>
+  <rect x="980" y="18" width="160" height="36" rx="18" fill="url(#gspec1)"/>
+  <text x="1010" y="41" font-family="'Space Grotesk', sans-serif" font-size="12" font-weight="700" fill="#0a0908">Download PDF &#8594;</text>
+
+  <!-- Hero Content -->
+  <rect x="60" y="110" width="240" height="28" rx="14" fill="rgba(94,241,255,0.15)" stroke="rgba(94,241,255,0.3)" stroke-width="1"/>
+  <circle cx="75" cy="124" r="4" fill="#5ef1ff"/>
+  <text x="88" y="129" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="500" fill="#5ef1ff" letter-spacing="1">CURATED CORPORATE GIFTING</text>
+
+  <text x="60" y="195" font-family="'Bricolage Grotesque', sans-serif" font-size="48" font-weight="800" fill="#f3ece5" letter-spacing="-1.5">BESPOKE HAMPERS CRAFTED</text>
+  <text x="60" y="255" font-family="'Bricolage Grotesque', sans-serif" font-size="48" font-weight="800" fill="url(#gspec1)" letter-spacing="-1.5">FOR PRESTIGE &amp; RECOGNITION.</text>
+
+  <!-- Filter Pills -->
+  <g transform="translate(60, 290)">
+    <rect x="0" y="0" width="130" height="34" rx="17" fill="url(#gspec1)"/>
+    <text x="20" y="22" font-family="'Space Grotesk', sans-serif" font-size="12" font-weight="700" fill="#0a0908">All Hampers (48)</text>
+
+    <rect x="145" y="0" width="160" height="34" rx="17" fill="#141110" stroke="#2a2523" stroke-width="1"/>
+    <text x="165" y="22" font-family="'Space Grotesk', sans-serif" font-size="12" fill="#b5aca6">Executive Suites (12)</text>
+
+    <rect x="320" y="0" width="170" height="34" rx="17" fill="#141110" stroke="#2a2523" stroke-width="1"/>
+    <text x="340" y="22" font-family="'Space Grotesk', sans-serif" font-size="12" fill="#b5aca6">Eco Onboarding (14)</text>
+
+    <rect x="505" y="0" width="150" height="34" rx="17" fill="#141110" stroke="#2a2523" stroke-width="1"/>
+    <text x="525" y="22" font-family="'Space Grotesk', sans-serif" font-size="12" fill="#b5aca6">Tech Essentials (10)</text>
+  </g>
+
+  <!-- Product Showcase Grid -->
+  <g transform="translate(60, 345)">
+    <rect x="0" y="0" width="340" height="360" rx="18" fill="#141110" stroke="#2a2523" stroke-width="1"/>
+    <rect x="0" y="0" width="340" height="190" rx="18 18 0 0" fill="#1a1614"/>
+    <rect x="18" y="18" width="110" height="24" rx="6" fill="rgba(0,0,0,0.6)" stroke="#2a2523" stroke-width="1"/>
+    <text x="28" y="34" font-family="'JetBrains Mono', monospace" font-size="10" fill="#5ef1ff">EXECUTIVE SUITE</text>
+    <text x="145" y="115" font-size="48">&#127873;</text>
+    <text x="22" y="230" font-family="'Bricolage Grotesque', sans-serif" font-size="18" font-weight="700" fill="#f3ece5">The Noir Executive Suite</text>
+    <text x="22" y="258" font-family="'Space Grotesk', sans-serif" font-size="12.5" fill="#928a84">Custom leather notebook, matte black tumbler &amp; gold roller pen.</text>
+    <text x="22" y="325" font-family="'JetBrains Mono', monospace" font-size="12" fill="#ea767d">MOQ: 25 PCS</text>
+    <rect x="210" y="305" width="108" height="32" rx="16" fill="url(#gspec1)"/>
+    <text x="226" y="326" font-family="'Space Grotesk', sans-serif" font-size="11" font-weight="700" fill="#0a0908">Quote Request</text>
+
+    <rect x="370" y="0" width="340" height="360" rx="18" fill="#141110" stroke="#2a2523" stroke-width="1"/>
+    <rect x="370" y="0" width="340" height="190" rx="18 18 0 0" fill="#161917"/>
+    <rect x="388" y="18" width="120" height="24" rx="6" fill="rgba(0,0,0,0.6)" stroke="#2a2523" stroke-width="1"/>
+    <text x="398" y="34" font-family="'JetBrains Mono', monospace" font-size="10" fill="#54c46f">SUSTAINABLE KIT</text>
+    <text x="515" y="115" font-size="48">&#127793;</text>
+    <text x="392" y="230" font-family="'Bricolage Grotesque', sans-serif" font-size="18" font-weight="700" fill="#f3ece5">Eco Onboarding Hamper</text>
+    <text x="392" y="258" font-family="'Space Grotesk', sans-serif" font-size="12.5" fill="#928a84">Bamboo thermos, seed-infused stationary &amp; organic cotton pouch.</text>
+    <text x="392" y="325" font-family="'JetBrains Mono', monospace" font-size="12" fill="#ea767d">MOQ: 30 PCS</text>
+    <rect x="580" y="305" width="108" height="32" rx="16" fill="url(#gspec1)"/>
+    <text x="596" y="326" font-family="'Space Grotesk', sans-serif" font-size="11" font-weight="700" fill="#0a0908">Quote Request</text>
+
+    <rect x="740" y="0" width="340" height="360" rx="18" fill="#141110" stroke="#2a2523" stroke-width="1"/>
+    <rect x="740" y="0" width="340" height="190" rx="18 18 0 0" fill="#17141b"/>
+    <rect x="758" y="18" width="110" height="24" rx="6" fill="rgba(0,0,0,0.6)" stroke="#2a2523" stroke-width="1"/>
+    <text x="768" y="34" font-family="'JetBrains Mono', monospace" font-size="10" fill="#9b7bff">NORDIC TECH</text>
+    <text x="885" y="115" font-size="48">&#9889;</text>
+    <text x="762" y="230" font-family="'Bricolage Grotesque', sans-serif" font-size="18" font-weight="700" fill="#f3ece5">Nordic Wireless Tech Set</text>
+    <text x="762" y="258" font-family="'Space Grotesk', sans-serif" font-size="12.5" fill="#928a84">Fast wireless pad, magnetic cable organizer &amp; felt laptop sleeve.</text>
+    <text x="762" y="325" font-family="'JetBrains Mono', monospace" font-size="12" fill="#ea767d">MOQ: 20 PCS</text>
+    <rect x="950" y="305" width="108" height="32" rx="16" fill="url(#gspec1)"/>
+    <text x="966" y="326" font-family="'Space Grotesk', sans-serif" font-size="11" font-weight="700" fill="#0a0908">Quote Request</text>
+  </g>
+</svg>
