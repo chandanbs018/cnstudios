@@ -320,21 +320,29 @@
     display:flex;flex-direction:column;justify-content:space-between;
     position:relative;overflow:hidden;
     border:1px solid var(--line);
-    transition:transform .12s ease-out, border-color .45s ease;
+    transition:transform .12s ease-out, border-color .4s ease, box-shadow .4s ease;
     transform-style:preserve-3d;
     will-change:transform;
     text-decoration:none;
     color:inherit;
   }
+  .work-card:hover{
+    border-color:rgba(94,241,255,0.45);
+    box-shadow:0 16px 48px rgba(0,0,0,0.65), 0 0 28px rgba(94,241,255,0.09);
+  }
   .work-card .tag{
     font-family:'JetBrains Mono',monospace;font-size:11.5px;
     letter-spacing:0.1em;text-transform:uppercase;color:var(--muted);
+    transition:color .3s ease;
   }
+  .work-card:hover .tag{color:var(--coral);}
   .work-card h3{
     font-family:'Bricolage Grotesque',sans-serif;font-weight:800;
     font-size:clamp(24px,2.8vw,36px);text-transform:uppercase;
     margin-top:16px;
+    transition:color .3s ease;
   }
+  .work-card:hover h3{color:var(--cream);}
   .work-card .meta{
     display:flex;justify-content:space-between;align-items:center;
     font-size:13px;color:var(--muted);margin-top:26px;
@@ -344,12 +352,16 @@
     position:absolute;
     right:0;
     font-family:'JetBrains Mono',monospace;
-    font-size:12px;
+    font-size:11.5px;
     letter-spacing:0.06em;
     color:var(--electric);
+    background:rgba(94,241,255,0.08);
+    border:1px solid rgba(94,241,255,0.25);
+    padding:4px 12px;
+    border-radius:100px;
     opacity:0;
-    transform:translateX(-10px);
-    transition:opacity .3s ease, transform .3s ease;
+    transform:translateX(-12px);
+    transition:opacity .3s ease, transform .3s ease, background .3s ease;
     display:flex;
     align-items:center;
     gap:6px;
@@ -357,6 +369,7 @@
   .work-card:hover .view-case-study{
     opacity:1;
     transform:translateX(0);
+    background:rgba(94,241,255,0.14);
   }
   .work-card .meta .year{
     transition:opacity .25s ease;
@@ -366,10 +379,10 @@
   }
   .work-card .blob{
     position:absolute;width:220px;height:220px;border-radius:50%;
-    right:-70px;bottom:-70px;filter:blur(6px);opacity:0.5;
-    transition:transform .5s ease;
+    right:-70px;bottom:-70px;filter:blur(8px);opacity:0.5;
+    transition:transform .5s cubic-bezier(.2,.7,.2,1), opacity .5s ease;
   }
-  .work-card:hover .blob{transform:scale(1.15);}
+  .work-card:hover .blob{transform:scale(1.3);opacity:0.75;}
   .c1{background:#141110;}.c1 .blob{background:radial-gradient(circle,var(--coral),transparent 70%);}
   .c2{background:#141110;}.c2 .blob{background:radial-gradient(circle,var(--electric),transparent 70%);}
   .c3{background:#141110;}.c3 .blob{background:radial-gradient(circle,var(--violet),transparent 70%);}
