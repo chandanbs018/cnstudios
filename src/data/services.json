@@ -1,0 +1,875 @@
+{
+  "web-design": {
+    "slug": "web-design",
+    "pageTitle": "Web Design & Development | NC Studios",
+    "metaDescription": "Custom-built, high-performance websites and digital platforms designed to convert. Engineered by NC Studios in Bengaluru.",
+    "h1Html": "Web Design &amp; <span class=\"gradient-text\">Dev</span>",
+    "eyebrow": "Service 01 • Digital Experience",
+    "subtitle": "Custom-built, fast-loading websites and digital business systems designed to convert visitors into high-intent clients — not just look good.",
+    "stampText": "NC STUDIOS • WEB ENGINEERING • 2026 •",
+    "metaItems": [
+      {
+        "label": "Discipline",
+        "value": "Web Design & Engineering"
+      },
+      {
+        "label": "Tech Stack",
+        "value": "Clean HTML/CSS, Vanilla JS, Custom CMS"
+      },
+      {
+        "label": "Speed Target",
+        "value": "90+ Lighthouse / Sub-second Paint"
+      },
+      {
+        "label": "Turnaround",
+        "value": "3 to 5 Weeks Sprint"
+      }
+    ],
+    "problemLead": "Most business websites are slow, generic template dumps that fail to generate pipeline.\n       We build bespoke digital storefronts that command authority —\n      turning casual traffic into qualified inbound leads and measurable commercial growth.",
+    "problems": [
+      {
+        "idx": "01",
+        "title": "Sluggish Load Speeds",
+        "desc": "Heavy framework bloat and messy plugins cause drop-offs before prospects even read your value proposition."
+      },
+      {
+        "idx": "02",
+        "title": "Rigid Template Syndrome",
+        "desc": "Generic theme builders that look like every other competitor in your industry, eroding brand differentiation."
+      },
+      {
+        "idx": "03",
+        "title": "Developer Bottlenecks",
+        "desc": "Needing an engineer for every minor copy change, new product release, or banner update."
+      },
+      {
+        "idx": "04",
+        "title": "Broken Mobile Ergonomics",
+        "desc": "Poor responsive scaling and clunky touch targets that frustrate mobile decision-makers."
+      }
+    ],
+    "deliverables": [
+      {
+        "num": "01",
+        "title": "Custom UI/UX Architecture",
+        "desc": "Bespoke visual layouts tailored to your exact industry positioning and buyer journeys.",
+        "points": [
+          "Interactive Wireframing & UX Prototypes",
+          "Design System & Component Tokenization",
+          "High-Contrast Dark / Light Theme Styling"
+        ]
+      },
+      {
+        "num": "02",
+        "title": "Performance Frontend",
+        "desc": "Clean, semantic code engineered for sub-second page loads and zero layout shift.",
+        "points": [
+          "Fluid 60fps Micro-Interactions & Cursor FX",
+          "Full Mobile & Tablet Ergonomic Scaling",
+          "Zero Framework Overhead & Clean DOM"
+        ]
+      },
+      {
+        "num": "03",
+        "title": "Custom CMS & Admin Hub",
+        "desc": "Secure internal dashboard allowing staff to manage products, categories, and content independently.",
+        "points": [
+          "Role-Based Authentication & Live Sync",
+          "No-Code Product & Category CRUD Engine",
+          "Automated Asset Compression (WebP)"
+        ]
+      },
+      {
+        "num": "04",
+        "title": "Conversion & SEO Engine",
+        "desc": "Built to be found by search engines and structured to capture high-intent inquiries.",
+        "points": [
+          "Structured JSON-LD Schema & Meta Tags",
+          "Frictionless Lead Funnel & WhatsApp Integration",
+          "90+ Target Lighthouse Audit Score"
+        ]
+      }
+    ],
+    "process": [
+      {
+        "num": "01",
+        "title": "Discovery & Strategy",
+        "desc": "We analyze your business model, customer acquisition funnels, and competitors to map the site structure."
+      },
+      {
+        "num": "02",
+        "title": "Design Direction",
+        "desc": "Creating high-fidelity layout concepts, typography hierarchies, and tactile interactive mockups for review."
+      },
+      {
+        "num": "03",
+        "title": "Frontend & CMS Build",
+        "desc": "Clean code implementation, responsive adaptation, micro-interaction polishing, and admin integration."
+      },
+      {
+        "num": "04",
+        "title": "Testing & Launch",
+        "desc": "Cross-browser QA, Lighthouse speed optimization, SEO verification, and seamless domain rollout."
+      }
+    ],
+    "featuredProject": {
+      "image": "/projects/assets/gifts-home-desktop.webp",
+      "imageAlt": "Visionary Gift Studios Storefront",
+      "eyebrow": "Case Study",
+      "title": "Visionary Gift Studios",
+      "desc": "A complete corporate gifting platform featuring curated category filtering, bespoke hamper showcases, and a custom-built backend admin dashboard for zero-code catalogue management.",
+      "link": "/clients/visionary-gift-studios"
+    },
+    "faqs": [
+      {
+        "q": "How long does a website project take?",
+        "a": "Most studio web builds take between 3 to 5 weeks from initial discovery to final deployment, depending on custom CMS requirements and the scope of pages."
+      },
+      {
+        "q": "Do you use templates or build custom?",
+        "a": "Every single line of layout, styling, and code is designed and built from scratch specifically for your brand. We do not use pre-purchased templates."
+      },
+      {
+        "q": "Can our team update content after launch?",
+        "a": "Yes. For dynamic sites, we build dedicated lightweight admin portals where your team can add products, update copy, and publish new collections without touching code."
+      },
+      {
+        "q": "Will the website be fast on mobile?",
+        "a": "Yes. We target 90+ Lighthouse performance scores, optimizing all assets to modern WebP formats and keeping frontend scripts lightweight for instant loading."
+      }
+    ],
+    "cta": {
+      "badges": [
+        "WEB DESIGN & DEV",
+        "HIGH PERFORMANCE",
+        "BENGALURU"
+      ],
+      "titleHtml": "Ready to build a website<br>that <span class=\"gradient-text\">commands authority?</span>",
+      "desc": "Let’s discuss your requirements and design a high-converting digital platform that turns visitors into clients."
+    }
+  },
+  "brand-identity": {
+    "slug": "brand-identity",
+    "pageTitle": "Brand Identity & Logo Design | NC Studios",
+    "metaDescription": "Distinctive logomarks, typography systems, and comprehensive brand identity design built for market authority. Crafted by NC Studios.",
+    "h1Html": "Brand Identity &amp; <span class=\"gradient-text\">Logo</span>",
+    "eyebrow": "Service 02 • Visual Authority",
+    "subtitle": "Distinctive logomarks, typography systems, and comprehensive visual identities built to hold up across every application — from billboard headers to app icons.",
+    "stampText": "NC STUDIOS • BRAND IDENTITY • 2026 •",
+    "metaItems": [
+      {
+        "label": "Discipline",
+        "value": "Visual Identity & System Design"
+      },
+      {
+        "label": "Deliverables",
+        "value": "Vector Logos, Guidelines, Color Palettes"
+      },
+      {
+        "label": "Output",
+        "value": "Full Master Asset Package (AI, SVG, PNG)"
+      },
+      {
+        "label": "Turnaround",
+        "value": "2 to 3 Weeks Sprint"
+      }
+    ],
+    "problemLead": "Generic logos and fragmented graphics make even capable companies look amateur.\n       We create cohesive visual identities that inspire instant trust —\n      ensuring your brand stands out clearly across digital, print, and physical touchpoints.",
+    "problems": [
+      {
+        "idx": "01",
+        "title": "Generic Stock Identity",
+        "desc": "Logos generated from overused clipart that fail to communicate unique positioning or premium market value."
+      },
+      {
+        "idx": "02",
+        "title": "Fragmented Visual Language",
+        "desc": "Different fonts, colors, and layouts across marketing decks, social media, and packaging weakening brand recall."
+      },
+      {
+        "idx": "03",
+        "title": "Poor Scalability",
+        "desc": "Marks that look fine on a computer screen but blur or break when scaled to tiny favicons or printed on massive hoardings."
+      },
+      {
+        "idx": "04",
+        "title": "Lack of Guidelines",
+        "desc": "Internal teams and external vendors guessing color codes, spacing rules, and font choices without clear documentation."
+      }
+    ],
+    "deliverables": [
+      {
+        "num": "01",
+        "title": "Logo System & Variations",
+        "desc": "Primary logomarks, stacked horizontal lockups, sub-marks, and monochrome app icons.",
+        "points": [
+          "Master Vector Formats (AI, EPS, SVG)",
+          "Dark & Light Background Adaptations",
+          "Monochrome & Spot-Color Specifications"
+        ]
+      },
+      {
+        "num": "02",
+        "title": "Color & Typography",
+        "desc": "Mathematically balanced color palettes and curated typographic hierarchies for print and screen.",
+        "points": [
+          "HEX, RGB, CMYK & Pantone Codes",
+          "Primary Display & Body Webfonts",
+          "Accessible Contrast & Legibility Ratios"
+        ]
+      },
+      {
+        "num": "03",
+        "title": "Brand Guidelines Book",
+        "desc": "A comprehensive rulebook detailing clear usage guidelines, clearspace rules, and layout constraints.",
+        "points": [
+          "Logo Clearspace & Minimum Sizing Rules",
+          "Incorrect Usage & Color Don'ts",
+          "Digital & Print Production Standards"
+        ]
+      },
+      {
+        "num": "04",
+        "title": "Graphic Elements & Motifs",
+        "desc": "Supporting patterns, custom icon sets, and grid textures that establish a recognizable studio signature.",
+        "points": [
+          "Custom Vector Iconography Suite",
+          "Atmospheric Background Gradients",
+          "Social Media Profile & Cover Kits"
+        ]
+      }
+    ],
+    "process": [
+      {
+        "num": "01",
+        "title": "Brand Audit & Research",
+        "desc": "We analyze competitor visual landscapes, target audience psychology, and strategic positioning."
+      },
+      {
+        "num": "02",
+        "title": "Concept Directions",
+        "desc": "Developing 2-3 distinct conceptual territories, moodboards, and exploratory logomark sketches."
+      },
+      {
+        "num": "03",
+        "title": "System Refinement",
+        "desc": "Perfecting vector geometry, fine-tuning typography pairings, and testing marks across mockups."
+      },
+      {
+        "num": "04",
+        "title": "Asset Delivery & Handover",
+        "desc": "Packaging high-res production files and compiling the master brand guidelines document."
+      }
+    ],
+    "featuredProject": {
+      "image": "/projects/assets/adss-home-desktop.webp",
+      "imageAlt": "Visionary Adss Brand Identity",
+      "eyebrow": "Case Study",
+      "title": "Visionary Adss",
+      "desc": "A commanding, high-contrast visual identity and typography system built to position an advertising powerhouse as a tier-one market leader across South India.",
+      "link": "/clients/visionary-adss"
+    },
+    "faqs": [
+      {
+        "q": "What files do I receive upon completion?",
+        "a": "You receive complete master asset folders with vector files (AI, EPS, SVG) for infinite scaling, high-res transparent PNGs, and a PDF brand guidelines document."
+      },
+      {
+        "q": "Do I own the full intellectual property?",
+        "a": "Yes. Once final project payment is settled, 100% full commercial ownership and copyright of the final chosen identity assets are transferred to your company."
+      },
+      {
+        "q": "How many initial concepts do you provide?",
+        "a": "We present 2 to 3 distinct, fully thought-out design directions with real-world mockup applications to help you choose the strongest brand trajectory."
+      },
+      {
+        "q": "Can you redesign an existing logo?",
+        "a": "Yes. We offer brand evolutions (refining and modernizing your existing equity) as well as total ground-up brand transformations."
+      }
+    ],
+    "cta": {
+      "badges": [
+        "BRAND IDENTITY",
+        "VISUAL AUTHORITY",
+        "BENGALURU"
+      ],
+      "titleHtml": "Ready to build an identity<br>that <span class=\"gradient-text\">stands out?</span>",
+      "desc": "Let’s craft a timeless visual system that establishes instant market recognition and customer loyalty."
+    }
+  },
+  "visiting-cards": {
+    "slug": "visiting-cards",
+    "pageTitle": "Visiting Cards & Printing | NC Studios",
+    "metaDescription": "Luxury visiting cards, brochures, bespoke packaging, and premium print collateral that leave a lasting impression. Engineered by NC Studios.",
+    "h1Html": "Visiting Cards &amp; <span class=\"gradient-text\">Printing</span>",
+    "eyebrow": "Service 03 • Tactile Print & Collateral",
+    "subtitle": "Visiting cards, brochures, packaging and branded materials that leave a lasting impression — crafted with premium paper stocks, spot UV, and precision foil finishes.",
+    "stampText": "NC STUDIOS • LUXURY PRINTING • 2026 •",
+    "metaItems": [
+      {
+        "label": "Discipline",
+        "value": "Tactile Print & Packaging"
+      },
+      {
+        "label": "Finishes",
+        "value": "Gold/Silver Foil, Spot UV, Blind Deboss"
+      },
+      {
+        "label": "Paper Stock",
+        "value": "350–600 GSM Cotton, Matte, Soft-Touch"
+      },
+      {
+        "label": "Production",
+        "value": "Pan-India Delivery with Pre-Press QA"
+      }
+    ],
+    "problemLead": "Flimsy cards and cheap print collateral destroy credibility in in-person meetings.\n       We craft heavyweight, tactile physical assets —\n      ensuring your brand exudes luxury, authority, and meticulous attention to detail the second someone touches it.",
+    "problems": [
+      {
+        "idx": "01",
+        "title": "Cheap, Flimsy Paper Stock",
+        "desc": "Thin paper that bends easily in pockets and signals low investment to prospective enterprise clients."
+      },
+      {
+        "idx": "02",
+        "title": "Color Misalignment (RGB vs CMYK)",
+        "desc": "Inconsistent color reproduction from vendors resulting in muddy tones that don't match your official brand colors."
+      },
+      {
+        "idx": "03",
+        "title": "Lack of Premium Finishes",
+        "desc": "Missing out on tactile prestige like raised spot UV, metallic foil stamping, and deep letterpress debossing."
+      },
+      {
+        "idx": "04",
+        "title": "Pre-Press Errors & Delays",
+        "desc": "Missing bleed margins, cut-off text, or low-resolution pixelation from improper printer file preparation."
+      }
+    ],
+    "deliverables": [
+      {
+        "num": "01",
+        "title": "Luxury Business Cards",
+        "desc": "Thick 400–600 GSM multi-ply cotton or velvet matte cards with custom spot finishes.",
+        "points": [
+          "Metallic Gold, Silver & Holographic Foil",
+          "Raised Spot UV & Tactile Texture Accents",
+          "Blind Letterpress & Multi-Level Embossing"
+        ]
+      },
+      {
+        "num": "02",
+        "title": "Corporate Stationery Suite",
+        "desc": "Executive letterheads, custom envelopes, folders, and branded invoice templates.",
+        "points": [
+          "Premium Watermarked Bond Paper",
+          "Peel & Seal Branded Business Envelopes",
+          "Die-Cut Presentation Folders with Card Slots"
+        ]
+      },
+      {
+        "num": "03",
+        "title": "Catalogues & Brochures",
+        "desc": "Editorial showcase brochures, saddle-stitched lookbooks, and gatefold sales decks.",
+        "points": [
+          "Matte Lamination with Spot Gloss Imagery",
+          "Perfect Bound or Wire-O Binding Options",
+          "High-Density CMYK Color Accuracy"
+        ]
+      },
+      {
+        "num": "04",
+        "title": "Packaging & Rigid Boxes",
+        "desc": "Custom product boxes, rigid corporate gift packaging, and premium unboxing sleeves.",
+        "points": [
+          "Custom Structural Dielines & 3D Prototyping",
+          "Magnetic Closure Boxes & Custom Foam Inserts",
+          "Eco-Friendly Kraft & Recycled Fiber Options"
+        ]
+      }
+    ],
+    "process": [
+      {
+        "num": "01",
+        "title": "Material Curation",
+        "desc": "Selecting paper weights (GSM), texture finishes, and tactile coating options suitable for your budget."
+      },
+      {
+        "num": "02",
+        "title": "Layout & Dieline Design",
+        "desc": "Crafting millimeter-precise layouts with bleed zones, safety margins, and specialty finish mask layers."
+      },
+      {
+        "num": "03",
+        "title": "Pre-Press & Proofing",
+        "desc": "Conducting color calibration, vector trap checks, and physical sample proofs before mass printing."
+      },
+      {
+        "num": "04",
+        "title": "Quality Print & Dispatch",
+        "desc": "Precision offset or digital printing, die-cutting, specialty embellishment, and safe doorstep delivery."
+      }
+    ],
+    "featuredProject": {
+      "image": "/projects/assets/gallery-adss-cards.svg",
+      "imageAlt": "Visionary Adss Luxury Business Cards",
+      "eyebrow": "Case Study Highlight",
+      "title": "Visionary Adss Stationery",
+      "desc": "Custom matte black visiting cards engineered with raised spot UV accents and metallic foil logomarks for agency executive leadership.",
+      "link": "/clients/visionary-adss"
+    },
+    "faqs": [
+      {
+        "q": "What is the minimum order quantity (MOQ)?",
+        "a": "Standard business card runs start at 200 units per name. For specialty packaging or custom rigid boxes, MOQs typically start between 50 to 100 units."
+      },
+      {
+        "q": "What paper thickness do you recommend?",
+        "a": "For executive business cards, we recommend 400 GSM soft-touch matte or 600 GSM multi-layer cotton stock for a distinctive, weighty hand-feel."
+      },
+      {
+        "q": "Do you provide print-ready source files?",
+        "a": "Yes. You receive press-ready vector PDFs with embedded fonts, 3mm bleeds, CMYK color profiles, and dedicated spot UV/foil separation vector layers."
+      },
+      {
+        "q": "Can you handle the printing and physical shipping?",
+        "a": "Yes. We manage the entire production lifecycle with our certified pre-press print partners and deliver finished materials directly to your office across India."
+      }
+    ],
+    "cta": {
+      "badges": [
+        "VISITING CARDS & PRINTING",
+        "PREMIUM FINISHES",
+        "BENGALURU"
+      ],
+      "titleHtml": "Ready to create print assets<br>people <span class=\"gradient-text\">remember?</span>",
+      "desc": "Upgrade your visiting cards, corporate stationery, and packaging with luxury paper stocks and bespoke finishes."
+    }
+  },
+  "social-media": {
+    "slug": "social-media",
+    "pageTitle": "Social Media Marketing | NC Studios",
+    "metaDescription": "Content strategy, editorial calendars, visual design, and community management built to turn followers into loyal brand advocates. Engineered by NC Studios.",
+    "h1Html": "Social Media <span class=\"gradient-text\">Marketing</span>",
+    "eyebrow": "Service 04 • Content & Community",
+    "subtitle": "Content strategy, visual storytelling, editorial calendars, and community management built to turn your social channels into a feed worth following and a reliable source of commercial demand.",
+    "stampText": "NC STUDIOS • SOCIAL CONTENT • 2026 •",
+    "metaItems": [
+      {
+        "label": "Discipline",
+        "value": "Social Strategy & Creative Production"
+      },
+      {
+        "label": "Platforms",
+        "value": "Instagram, LinkedIn, YouTube, X"
+      },
+      {
+        "label": "Format",
+        "value": "Carousels, Static Posts, Reels, Stories"
+      },
+      {
+        "label": "Cadence",
+        "value": "Monthly Editorial Sprints"
+      }
+    ],
+    "problemLead": "Posting random stock graphics with zero strategic intent yields zero business impact.\n       We build purposeful, high-engagement content engines —\n      establishing brand authority, educating your buyers, and turning social impressions into qualified inbound inquiries.",
+    "problems": [
+      {
+        "idx": "01",
+        "title": "Inconsistent Posting Schedules",
+        "desc": "Gaps in posting schedules destroy algorithmic momentum and signal lack of activity to prospective customers."
+      },
+      {
+        "idx": "02",
+        "title": "Generic Template Clutter",
+        "desc": "Overused Canva templates with poor typography that get instantly scrolled past without capturing attention."
+      },
+      {
+        "idx": "03",
+        "title": "Zero Content Strategy",
+        "desc": "Posting without clear content pillars, educational value, or commercial hooks that fail to guide viewers toward conversion."
+      },
+      {
+        "idx": "04",
+        "title": "Unclear ROI & Attribution",
+        "desc": "No actionable tracking or monthly reporting to understand what content drives true brand affinity versus vanity likes."
+      }
+    ],
+    "deliverables": [
+      {
+        "num": "01",
+        "title": "Content Strategy & Pillars",
+        "desc": "Strategic positioning framework defining content categories, narrative hooks, and brand tone.",
+        "points": [
+          "Industry & Competitor Content Benchmarking",
+          "Audience Persona & Hook Mapping",
+          "Content Matrix (Educational, Proof, Promo)"
+        ]
+      },
+      {
+        "num": "02",
+        "title": "Custom Visual Creative",
+        "desc": "Bespoke carousel graphics, single-image authority posts, and animated story templates.",
+        "points": [
+          "High-Retention Multi-Slide Carousels",
+          "Custom Typographic Layouts & Diagrams",
+          "Brand-Aligned Color & Visual Continuity"
+        ]
+      },
+      {
+        "num": "03",
+        "title": "Copywriting & Scheduling",
+        "desc": "Persuasive, conversational captions structured with clear calls-to-action and hashtag research.",
+        "points": [
+          "Hook-First Headline Copywriting",
+          "Pre-Scheduled Monthly Editorial Calendars",
+          "Niche & Trend Hashtag Curation"
+        ]
+      },
+      {
+        "num": "04",
+        "title": "Analytics & Optimization",
+        "desc": "Monthly performance breakdowns reviewing top-performing creative, reach growth, and inquiry volume.",
+        "points": [
+          "Monthly Growth & Engagement Scorecard",
+          "Creative Iteration & A/B Learning",
+          "Strategic Strategy Refinements"
+        ]
+      }
+    ],
+    "process": [],
+    "featuredProject": {
+      "image": "/projects/assets/gallery-adss-social.svg",
+      "imageAlt": "Visionary Adss Social Media Campaign Creatives",
+      "eyebrow": "Case Study Highlight",
+      "title": "Visionary Adss Social Campaign",
+      "desc": "High-conversion carousel creative templates and campaign visuals that generated a surge in direct agency consultation inquiries across Instagram and LinkedIn.",
+      "link": "/clients/visionary-adss"
+    },
+    "faqs": [
+      {
+        "q": "How often will you post on our accounts?",
+        "a": "Standard retainers typically range between 12 to 20 high-value posts per month (3 to 5 posts weekly), focusing on depth and quality over low-effort filler content."
+      },
+      {
+        "q": "Do we get to approve posts before they go live?",
+        "a": "Yes. We deliver the full batch of creative assets, copy, and posting dates at the start of each month so you can approve everything in a single 15-minute review."
+      },
+      {
+        "q": "Which platforms do you manage?",
+        "a": "We primarily focus on Instagram and LinkedIn for B2B and consumer brands, with extended support for YouTube Shorts, X (Twitter), and Facebook."
+      },
+      {
+        "q": "Can you coordinate organic social with paid ads?",
+        "a": "Yes. Because NC Studios handles both organic social and paid digital advertising, we seamlessly turn top-performing organic posts into high-ROAS paid ads."
+      }
+    ],
+    "cta": {
+      "badges": [
+        "SOCIAL MEDIA MARKETING",
+        "CONTENT STRATEGY",
+        "BENGALURU"
+      ],
+      "titleHtml": "Ready to build a feed<br>that <span class=\"gradient-text\">commands attention?</span>",
+      "desc": "Let’s transform your social presence with bespoke design, strategic storytelling, and consistent commercial momentum."
+    }
+  },
+  "digital-advertising": {
+    "slug": "digital-advertising",
+    "pageTitle": "Digital Advertising & Media Campaigns | NC Studios",
+    "metaDescription": "High-performance paid advertising campaigns across Meta, Google, and outdoor media engineered for measurable ROAS and lead generation. Built by NC Studios.",
+    "h1Html": "Digital <span class=\"gradient-text\">Advertising</span>",
+    "eyebrow": "Service 05 • Performance Marketing",
+    "subtitle": "Paid campaigns across Meta, Google, and high-visibility media channels — engineered on rigorous audience targeting, high-converting creative, and real ROI numbers.",
+    "stampText": "NC STUDIOS • PAID ADVERTISING • 2026 •",
+    "metaItems": [
+      {
+        "label": "Channels",
+        "value": "Meta Ads, Google Search, Display, OOH"
+      },
+      {
+        "label": "Primary Metric",
+        "value": "Cost Per Qualified Acquisition (CPA / ROAS)"
+      },
+      {
+        "label": "Optimization",
+        "value": "Daily Creative Testing & Bidding Scaling"
+      },
+      {
+        "label": "Reporting",
+        "value": "Live Analytics Dashboard & Weekly Syncs"
+      }
+    ],
+    "problemLead": "Most advertising campaigns bleed ad spend on low-intent clicks without generating qualified pipeline.\n       We connect high-converting creative with surgical media targeting —\n      ensuring every rupee spent drives measurable customer acquisition and commercial returns.",
+    "problems": [
+      {
+        "idx": "01",
+        "title": "Wasted Budget on Poor Targeting",
+        "desc": "Broad audience targeting that burns capital showing ads to irrelevant consumers with zero purchase intent."
+      },
+      {
+        "idx": "02",
+        "title": "Ad Creative Fatigue",
+        "desc": "Running the same static ad creatives for months, leading to skyrocketing costs per click and declining conversions."
+      },
+      {
+        "idx": "03",
+        "title": "Landing Page Disconnect",
+        "desc": "Sending expensive paid traffic to generic homepages with weak messaging and confusing contact pathways."
+      },
+      {
+        "idx": "04",
+        "title": "Opaque ROAS Reporting",
+        "desc": "Agency reports filled with vanity impressions and clicks that obscure actual cost-per-lead and sales figures."
+      }
+    ],
+    "deliverables": [
+      {
+        "num": "01",
+        "title": "Campaign Strategy & Funnels",
+        "desc": "Multi-stage advertising funnels structured around cold prospecting, warm nurturing, and retargeting.",
+        "points": [
+          "Audience Persona & Intent Segmenting",
+          "Lookalike & Custom Pixel Audiences",
+          "Competitor Ad Scraping & Offer Benchmarking"
+        ]
+      },
+      {
+        "num": "02",
+        "title": "High-Converting Ad Creative",
+        "desc": "High-contrast visual hooks, video scripts, and benefit-driven copywriting designed to stop the scroll.",
+        "points": [
+          "Static Image & Carousel Ad Variations",
+          "Direct-Response Headline & Body Copywriting",
+          "Weekly Creative Refresh & Angle Testing"
+        ]
+      },
+      {
+        "num": "03",
+        "title": "Media Buying & Bidding",
+        "desc": "Daily optimization across Meta Ads Manager, Google Ads, and search keyword auctions.",
+        "points": [
+          "Target ROAS & Target CPA Bidding Rules",
+          "Negative Keyword Filtering & Search Query Hygiene",
+          "Budget Reallocation to Winning Ad Sets"
+        ]
+      },
+      {
+        "num": "04",
+        "title": "Conversion Rate Optimization",
+        "desc": "Dedicated high-converting landing page layouts and tracking infrastructure.",
+        "points": [
+          "Meta Conversions API (CAPI) & GA4 Tracking",
+          "One-Tap Lead Gen Forms & WhatsApp Capture",
+          "Transparent Real-Time Performance Dashboards"
+        ]
+      }
+    ],
+    "process": [
+      {
+        "num": "01",
+        "title": "Funnel & Offer Audit",
+        "desc": "We analyze your unit economics, profit margins, competitor ads, and high-value customer hooks."
+      },
+      {
+        "num": "02",
+        "title": "Creative & Copy Sprint",
+        "desc": "Producing 5-10 distinct creative hooks, direct-response copy variations, and landing page assets."
+      },
+      {
+        "num": "03",
+        "title": "Campaign Launch & Pixel Setup",
+        "desc": "Setting up conversion tracking, deploying structured ad sets, and running initial testing budgets."
+      },
+      {
+        "num": "04",
+        "title": "Scale & Daily Optimization",
+        "desc": "Pruning unprofitable ad variations, scaling winning audiences, and maximizing overall campaign ROAS."
+      }
+    ],
+    "featuredProject": {
+      "image": "/projects/assets/gallery-adss-services.svg",
+      "imageAlt": "Visionary Adss Paid Campaign Infrastructure",
+      "eyebrow": "Case Study Highlight",
+      "title": "Visionary Adss Campaign Platform",
+      "desc": "Full-scale advertising infrastructure structuring high-visibility arterial highway hoardings and digital performance marketing for enterprise acquisition in Bengaluru.",
+      "link": "/clients/visionary-adss"
+    },
+    "faqs": [
+      {
+        "q": "What ad budget should we start with?",
+        "a": "We typically recommend a minimum monthly ad spend of ₹40,000 to ₹1,00,000 to ensure sufficient testing volume and rapid algorithmic learning."
+      },
+      {
+        "q": "Who owns the ad accounts and creative assets?",
+        "a": "You own 100% of all ad accounts, pixel data, and creative assets. Everything is run directly inside your company's Meta Business Manager and Google Ads accounts."
+      },
+      {
+        "q": "How quickly do we see results?",
+        "a": "Initial lead flow typically begins within the first 48 to 72 hours of campaign launch, with full algorithmic optimization and lowest acquisition costs settling over weeks 2 through 4."
+      },
+      {
+        "q": "Do you design the ad creative and write the copy?",
+        "a": "Yes. Our team produces all ad graphics, motion banners, direct-response copy, and headline angles as part of the full management service."
+      }
+    ],
+    "cta": {
+      "badges": [
+        "DIGITAL ADVERTISING",
+        "PERFORMANCE ROAS",
+        "BENGALURU"
+      ],
+      "titleHtml": "Ready to scale paid ads<br>with <span class=\"gradient-text\">predictable returns?</span>",
+      "desc": "Let’s engineer a performance advertising funnel that drives qualified customer acquisition month after month."
+    }
+  },
+  "complete-branding": {
+    "slug": "complete-branding",
+    "pageTitle": "Complete Branding & Systems | NC Studios",
+    "metaDescription": "End-to-end brand strategy, verbal messaging, visual identity, digital platforms, and collateral united into one powerful business system. Crafted by NC Studios.",
+    "h1Html": "Complete <span class=\"gradient-text\">Branding</span>",
+    "eyebrow": "Service 06 • Full-Service System",
+    "subtitle": "Strategy, verbal voice, visual identity, digital platforms, and tactile print collateral — every single touchpoint tied together into one unified commercial system run by one studio team.",
+    "stampText": "NC STUDIOS • FULL BRANDING SYSTEM • 2026 •",
+    "metaItems": [
+      {
+        "label": "Discipline",
+        "value": "End-to-End Brand Engineering"
+      },
+      {
+        "label": "Scope",
+        "value": "Strategy, Identity, Web, Print, Launch"
+      },
+      {
+        "label": "Execution",
+        "value": "Single Unified Team, Zero Fragmentation"
+      },
+      {
+        "label": "Timeline",
+        "value": "6 to 8 Weeks Complete Rollout"
+      }
+    ],
+    "problemLead": "Juggling separate freelance designers, web developers, print shops, and ad agencies leads to chaotic inconsistency.\n       We build your entire brand ecosystem under one roof —\n      ensuring seamless continuity from your boardroom pitch deck to your live website and customer unboxing.",
+    "problems": [
+      {
+        "idx": "01",
+        "title": "Vendor Disconnect & Friction",
+        "desc": "Managing four different agencies for logo, website, packaging, and ads who don't talk to each other and produce clashing styles."
+      },
+      {
+        "idx": "02",
+        "title": "Diluted Market Positioning",
+        "desc": "Inability to articulate why your solution commands a premium price over competitors in your category."
+      },
+      {
+        "idx": "03",
+        "title": "Slow Time-to-Market",
+        "desc": "Months lost waiting on multiple vendors before you can officially launch your product or announce a new brand."
+      },
+      {
+        "idx": "04",
+        "title": "Inconsistent Brand Touchpoints",
+        "desc": "A website that looks modern while business cards feel cheap and social media looks amateurish."
+      }
+    ],
+    "deliverables": [
+      {
+        "num": "01",
+        "title": "Strategy & Verbal Identity",
+        "desc": "Commercial positioning, tone of voice guidelines, value propositions, and core messaging pillars.",
+        "points": [
+          "Competitor Landscape & Whitespace Mapping",
+          "Elevator Pitches & Headline Frameworks",
+          "Mission, Vision & Brand Manifesto"
+        ]
+      },
+      {
+        "num": "02",
+        "title": "Full Visual Identity System",
+        "desc": "Master logomark suites, color systems, typography pairings, and supporting visual motifs.",
+        "points": [
+          "Primary, Secondary & Monogram Marks",
+          "Comprehensive Typography & Color Standards",
+          "60+ Page Master Brand Bible Document"
+        ]
+      },
+      {
+        "num": "03",
+        "title": "Custom Digital Web Platform",
+        "desc": "A bespoke, high-performance website engineered with custom CMS and conversion funnels.",
+        "points": [
+          "Custom UI/UX & 60fps Micro-Interactions",
+          "Mobile Ergonomics & 90+ Lighthouse Speed",
+          "Internal Admin Hub & Lead Funnel Capture"
+        ]
+      },
+      {
+        "num": "04",
+        "title": "Physical Print & Launch Kit",
+        "desc": "Luxury executive visiting cards, corporate stationery, and full social media launch assets.",
+        "points": [
+          "400+ GSM Business Cards with Spot Finishes",
+          "Letterheads, Envelopes & Presentation Folders",
+          "Social Announcement Suite & Ad Creative"
+        ]
+      }
+    ],
+    "process": [
+      {
+        "num": "01",
+        "title": "Deep Discovery & Strategy",
+        "desc": "We uncover your market moat, study your highest-value customers, and establish the strategic brand foundation."
+      },
+      {
+        "num": "02",
+        "title": "Visual System Creation",
+        "desc": "Designing logomarks, typography hierarchies, color palettes, and testing across digital and print applications."
+      },
+      {
+        "num": "03",
+        "title": "Website & Collateral Build",
+        "desc": "Simultaneous engineering of your bespoke web platform and pre-press production of luxury print materials."
+      },
+      {
+        "num": "04",
+        "title": "Synchronized Launch",
+        "desc": "Coordinated rollout across live domain, social media channels, and physical collateral distribution."
+      }
+    ],
+    "featuredProject": {
+      "image": "/projects/assets/gifts-home-desktop.webp",
+      "imageAlt": "Visionary Gift Studios Brand System",
+      "eyebrow": "Full Branding Case Study",
+      "title": "Visionary Gift Studios",
+      "desc": "A comprehensive commercial transformation spanning brand identity, executive corporate positioning, a custom digital catalogue platform, and an internal no-code admin CMS.",
+      "link": "/clients/visionary-gift-studios"
+    },
+    "faqs": [
+      {
+        "q": "Why choose one agency for everything?",
+        "a": "Having a single team handle strategy, visual identity, website, and print eliminates miscommunication, prevents visual fragmentation, and delivers a dramatically faster launch."
+      },
+      {
+        "q": "How long does a complete branding project take?",
+        "a": "A complete brand transformation typically takes between 6 to 8 weeks from kickoff to final live website deployment and physical print delivery."
+      },
+      {
+        "q": "Can this package be customized?",
+        "a": "Yes. While our standard complete branding package covers strategy, identity, web, and print, we customize the scope based on your exact business requirements."
+      },
+      {
+        "q": "Do you provide ongoing support after launch?",
+        "a": "Yes. We offer ongoing design retainers for marketing creative, social media management, campaign production, and web enhancements."
+      }
+    ],
+    "cta": {
+      "badges": [
+        "COMPLETE BRANDING",
+        "FULL-SERVICE SYSTEM",
+        "BENGALURU"
+      ],
+      "titleHtml": "Ready to build your complete<br><span class=\"gradient-text\">brand ecosystem?</span>",
+      "desc": "Partner with one unified studio team to create your brand strategy, identity, website, and executive print collateral."
+    }
+  }
+}

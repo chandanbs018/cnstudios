@@ -1,0 +1,21 @@
+# Legacy .html URL permanent 301 redirects to clean routes
+/services/web-design.html          /services/web-design          301
+/services/brand-identity.html       /services/brand-identity       301
+/services/visiting-cards.html       /services/visiting-cards       301
+/services/social-media.html         /services/social-media         301
+/services/digital-advertising.html  /services/digital-advertising  301
+/services/complete-branding.html    /services/complete-branding    301
+/projects/visionary-adss.html       /clients/visionary-adss        301
+/projects/visionary-gift-studios.html /clients/visionary-gift-studios 301
+/projects/visionary-adss           /clients/visionary-adss        301
+/projects/visionary-gift-studios   /clients/visionary-gift-studios 301
+
+# Trailing slash normalization redirects
+/services/web-design/              /services/web-design          301
+/services/brand-identity/           /services/brand-identity       301
+/services/visiting-cards/           /services/visiting-cards       301
+/services/social-media/             /services/social-media         301
+/services/digital-advertising/      /services/digital-advertising  301
+/services/complete-branding/        /services/complete-branding    301
+/clients/visionary-adss/            /clients/visionary-adss        301
+/clients/visionary-gift-studios/    /clients/visionary-gift-studios 301

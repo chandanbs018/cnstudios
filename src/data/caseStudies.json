@@ -1,0 +1,453 @@
+{
+  "visionary-adss": {
+    "slug": "visionary-adss",
+    "title": "Visionary Adss Case Study | NC Studios",
+    "metaDescription": "How NC Studios designed and developed a lead-generation website for Visionary Adss, creating a stronger digital presence, clearer service communication, and a conversion-focused user experience.",
+    "eyebrow": "Advertising Agency Platform",
+    "heroTitleHtml": "Visionary <span class=\"accent gradient-text\">Adss</span>",
+    "heroSubtitle": "A modern lead-generation website built to position Visionary Adss as a credible advertising partner while making it effortless for potential clients to understand services and start conversations.",
+    "metaItems": [
+      {
+        "label": "Industry",
+        "value": "Advertising & Branding"
+      },
+      {
+        "label": "Location",
+        "value": "Bengaluru, India"
+      },
+      {
+        "label": "Year",
+        "value": "2026"
+      },
+      {
+        "label": "Services",
+        "value": "Website Design • Frontend Development • Lead Generation • Responsive Experience"
+      }
+    ],
+    "stampText": "NC STUDIOS • CLIENT CASE STUDY • 2026 • ",
+    "mockup": {
+      "url": "https://visionaryadss.in/",
+      "tab": "Visionary Ads",
+      "image": "/projects/assets/adss-home-desktop.webp",
+      "alt": "Visionary Adss Production Homepage"
+    },
+    "overview": {
+      "client": "Visionary Adss",
+      "industry": "Advertising & Branding",
+      "timeline": "4 Weeks (Discovery to Launch)",
+      "deliverables": [
+        "Custom Lead-Generation Website",
+        "Brand Identity Presentation",
+        "Modular Service Architecture",
+        "Conversion Funnel Engineering",
+        "Mobile-First Performance"
+      ],
+      "headline": "Positioning an advertising powerhouse to win enterprise trust.",
+      "paragraphs": [
+        "In the advertising industry, first impressions dictate commercial authority. When enterprise brands and high-growth businesses seek an advertising agency in Bengaluru, they compete on trust, creative caliber, and execution confidence.",
+        "Visionary Adss required more than a basic static brochure website. The objective was to engineer a high-converting lead-generation platform that communicates scale within seconds, structures multi-disciplinary capabilities across outdoor, digital, and branding, and creates an effortless, frictionless path for visitors to start project conversations.",
+        "Our approach focused on visual authority, structural clarity, and strategic conversion pathways—ensuring the website acts as an active, round-the-clock salesperson for the agency."
+      ]
+    },
+    "challengeLead": "Advertising agencies compete in a relentless marketplace where attention spans are measured in seconds. The website had to work as a salesperson—not just a portfolio — establishing instant credibility, clarifying complex service tiers, and driving qualified inbound inquiries.",
+    "challenges": [
+      {
+        "idx": "01",
+        "title": "Weak Digital Credibility",
+        "desc": "The agency's previous digital presence failed to signal the true creative caliber and operational scale of the offline campaigns they executed."
+      },
+      {
+        "idx": "02",
+        "title": "Scattered Service Communication",
+        "desc": "Prospective clients couldn't quickly scan or differentiate outdoor hoardings, digital performance marketing, and creative production."
+      },
+      {
+        "idx": "03",
+        "title": "Inconsistent Visual Hierarchy",
+        "desc": "Weak typographic structure and cluttered pages caused visitors to bounce without discovering core agency capabilities."
+      },
+      {
+        "idx": "04",
+        "title": "Limited Mobile Experience",
+        "desc": "Clunky layouts and slow load times on smartphones alienated executive decision-makers browsing during transit or meetings."
+      },
+      {
+        "idx": "05",
+        "title": "Unclear Inquiry Journey",
+        "desc": "Buried contact forms and friction-heavy communication steps created drop-offs among high-intent business prospects."
+      }
+    ],
+    "solutions": [
+      {
+        "num": "01",
+        "title": "Strategic Homepage",
+        "desc": "Built around immediate credibility using strong typography, dark-theme depth, and clear visual hierarchy that commands attention."
+      },
+      {
+        "num": "02",
+        "title": "Service Architecture",
+        "desc": "Organized offerings into modular, scannable cards so visitors understand capabilities across outdoor, digital, and branding within seconds."
+      },
+      {
+        "num": "03",
+        "title": "Responsive Experience",
+        "desc": "Optimized every section and component for desktop, tablet, and mobile with fluid touch interactions and zero layout shift."
+      },
+      {
+        "num": "04",
+        "title": "Conversion Flow",
+        "desc": "Clear, high-visibility CTAs and magnetic triggers placed strategically throughout the experience to encourage immediate project inquiries."
+      },
+      {
+        "num": "05",
+        "title": "Performance",
+        "desc": "Fast-loading pages with lightweight static code and smooth 60fps animations for an effortless user experience."
+      }
+    ],
+    "behindTheBuild": [
+      {
+        "tag": "Trust & Scale",
+        "title": "Visual Authority",
+        "desc": "Large Bricolage Grotesque typography and restrained obsidian-and-coral color palettes were chosen to establish immediate institutional trust and communicate scale."
+      },
+      {
+        "tag": "Information Flow",
+        "title": "Service Clarity",
+        "desc": "Content hierarchy was designed to eliminate cognitive friction, categorizing prime hoardings, digital performance, and branding into scannable, bite-sized vertical tiers."
+      },
+      {
+        "tag": "Inquiry Architecture",
+        "title": "Conversion Thinking",
+        "desc": "Every major section naturally leads visitors toward starting a project conversation via magnetic CTAs, transparent deliverables, and dedicated mobile quick-contact triggers."
+      }
+    ],
+    "gallery": [
+      {
+        "tag": "01 • STRATEGIC HOMEPAGE",
+        "title": "Hero Typography & Positioning",
+        "desc": "High-contrast above-the-fold value proposition establishing immediate authority and credibility.",
+        "image": "/projects/assets/adss-home-desktop.webp",
+        "alt": "Strategic Homepage UI"
+      },
+      {
+        "tag": "02 • SERVICE ARCHITECTURE",
+        "tagColor": "electric",
+        "title": "Modular Capabilities Matrix",
+        "desc": "Structured grid breakdown of outdoor hoardings, digital marketing, and government outreach.",
+        "image": "/projects/assets/adss-services.webp",
+        "alt": "Services Architecture Grid"
+      },
+      {
+        "tag": "03 • RESPONSIVE EXPERIENCE",
+        "tagColor": "violet",
+        "title": "Mobile Ergonomics",
+        "desc": "Touch-optimized layouts and thumb-friendly pathways built for on-the-go corporate reviews.",
+        "image": "/projects/assets/adss-home-mobile.webp",
+        "alt": "Mobile Experience"
+      },
+      {
+        "tag": "04 • CONVERSION FLOW",
+        "title": "Lead Generation & Inquiries",
+        "desc": "Frictionless consultation pathways and direct communication channels engineered to capture high-intent leads.",
+        "image": "/projects/assets/adss-contact.webp",
+        "alt": "Inquiry Funnel Flow"
+      },
+      {
+        "tag": "05 • BRAND IDENTITY",
+        "tagColor": "electric",
+        "title": "Design System & Signage",
+        "desc": "Bespoke marks, color palettes, and typographic scales built for cross-platform authority.",
+        "image": "/projects/assets/gallery-adss-branding.svg",
+        "alt": "Brand Identity System"
+      },
+      {
+        "tag": "06 • CORPORATE COLLATERAL",
+        "tagColor": "violet",
+        "title": "Executive Stationery",
+        "desc": "Premium visiting card layouts with spot-UV embossing specifications and print collateral.",
+        "image": "/projects/assets/gallery-adss-cards.svg",
+        "alt": "Corporate Stationery"
+      }
+    ],
+    "process": [
+      {
+        "num": "01",
+        "title": "Discovery",
+        "desc": "We analyzed advertising client buyer journeys, agency positioning, and lead conversion friction points in the regional market."
+      },
+      {
+        "num": "02",
+        "title": "Creative Direction",
+        "desc": "Established commanding typographic hierarchy, luminous spectrum accents, and high-trust editorial aesthetics."
+      },
+      {
+        "num": "03",
+        "title": "Website Development",
+        "desc": "Engineered fast, framework-free HTML/CSS modules with subtle magnetic micro-interactions and instant responsiveness."
+      },
+      {
+        "num": "04",
+        "title": "Launch & Lead Generation",
+        "desc": "Deployed on production with search schema, streamlined inquiry funnels, and one-tap direct contact triggers."
+      }
+    ],
+    "outcomes": [
+      {
+        "title": "Stronger Digital Credibility",
+        "desc": "Positions Visionary Adss as an authoritative advertising partner from the very first second of client engagement."
+      },
+      {
+        "title": "Clear Service Communication",
+        "desc": "Structured capabilities allow prospective clients to evaluate outdoor, digital, and branding services instantly."
+      },
+      {
+        "title": "Mobile-First Experience",
+        "desc": "Flawless smartphone ergonomics ensuring seamless viewing and one-tap communication during executive reviews."
+      },
+      {
+        "title": "Better Inquiry Flow",
+        "desc": "Strategic conversion touchpoints turn casual visitors into high-intent agency consultations."
+      }
+    ],
+    "liveCta": {
+      "url": "https://visionaryadss.in/",
+      "buttonText": "Visit Visionary Adss →",
+      "titleHtml": "Explore Visionary Adss<br>in <span class=\"gradient-text\">Real Time.</span>",
+      "desc": "Experience the live advertising agency platform engineered by NC Studios, complete with fast loading, clear service communication, and conversion-focused interactions."
+    },
+    "prevProject": {
+      "title": "Cherry Blossom Gifts",
+      "meta": "Ordering Website & Branding",
+      "link": "/#clients"
+    },
+    "nextProject": {
+      "title": "Visionary Gift Studios",
+      "meta": "Corporate Gifting Platform",
+      "link": "/clients/visionary-gift-studios"
+    }
+  },
+  "visionary-gift-studios": {
+    "slug": "visionary-gift-studios",
+    "title": "Visionary Gift Studios Case Study | NC Studios",
+    "metaDescription": "How NC Studios designed and engineered a custom corporate gifting platform with an independent backend admin dashboard for Visionary Gift Studios.",
+    "eyebrow": "Corporate Gifting Platform",
+    "heroTitleHtml": "Visionary <span class=\"accent gradient-text\">Gift Studios</span>",
+    "heroSubtitle": "A corporate gifting platform designed to let the business manage its catalogue independently through a custom-built admin dashboard—without relying on developers for everyday updates.",
+    "metaItems": [
+      {
+        "label": "Industry",
+        "value": "Corporate Gifting"
+      },
+      {
+        "label": "Location",
+        "value": "Bengaluru, India"
+      },
+      {
+        "label": "Year",
+        "value": "2026"
+      },
+      {
+        "label": "Services",
+        "value": "Website • Custom CMS • Admin Dashboard • Product Management"
+      }
+    ],
+    "stampText": "NC STUDIOS • CLIENT CASE STUDY • 2026 • ",
+    "stampFill": "#5ef1ff",
+    "mockup": {
+      "url": "https://visionarygiftsstudio.com",
+      "tab": "Visionary Gift Studios",
+      "image": "/projects/assets/gifts-home-desktop.webp",
+      "alt": "Visionary Gift Studios Production Storefront"
+    },
+    "overview": {
+      "client": "Visionary Gift Studios",
+      "industry": "Corporate Gifting",
+      "timeline": "4 Weeks (Discovery to Handover)",
+      "deliverables": [
+        "Custom Corporate Gifting Platform",
+        "Dedicated Backend Admin Dashboard",
+        "Dynamic Category Management",
+        "No-Code Product CRUD Engine",
+        "Real-Time Catalogue Synchronization",
+        "B2B RFQ & Inquiry Funnel"
+      ],
+      "headline": "Building an autonomous business system—not just a static website.",
+      "paragraphs": [
+        "Visionary Gift Studios required more than a conventional gifting catalogue. In the fast-paced corporate gifting industry, inventory is fluid—seasonal hampers launch every quarter, festive collections demand fast turnarounds, and custom B2B packaging requires agile presentation.",
+        "Rather than building a standard static storefront that would force the client to rely on external developers for every text change or product addition, NC Studios engineered a custom corporate gifting platform with a dedicated backend admin system.",
+        "The platform gives the business complete operational independence: internal staff can add hampers, create new gifting categories, update bulk minimum order quantities, and publish seasonal collections instantly—all from an intuitive internal dashboard without touching a single line of code."
+      ]
+    },
+    "challengeLead": "Corporate gifting businesses move fast, but standard web solutions create massive operational bottlenecks. The client needed complete operational control after launch — eliminating developer dependencies and giving the internal team the power to maintain their catalogue in real time.",
+    "challenges": [
+      {
+        "idx": "01",
+        "title": "Constant Product Updates",
+        "desc": "Rapidly evolving vendor inventory and hamper components required near-daily website adjustments that were slow and costly to route through external developers."
+      },
+      {
+        "idx": "02",
+        "title": "New Gifting Categories",
+        "desc": "Launching new verticals (like Sustainable Onboarding or Nordic Tech) was delayed by rigid, hard-coded website architectures."
+      },
+      {
+        "idx": "03",
+        "title": "Seasonal Collections",
+        "desc": "Peak corporate gifting windows (Diwali, New Year, Q4 onboarding) required instant catalogue refreshes that traditional websites couldn't accommodate."
+      },
+      {
+        "idx": "04",
+        "title": "Manual Website Edits",
+        "desc": "Content updates previously involved editing code files or clunky spreadsheets, creating formatting bugs and inconsistent product specifications."
+      },
+      {
+        "idx": "05",
+        "title": "Slow Catalogue Maintenance",
+        "desc": "Cumbersome multi-step maintenance cycles resulted in outdated catalogues and missed enterprise sales opportunities during key procurement seasons."
+      }
+    ],
+    "solutions": [
+      {
+        "num": "01",
+        "title": "Custom Admin Dashboard",
+        "desc": "A secure internal dashboard built specifically for the business, providing an intuitive command center for all catalogue operations."
+      },
+      {
+        "num": "02",
+        "title": "Category Management",
+        "desc": "Admins can create, edit, organize, and re-order gifting categories directly from the dashboard with instant frontend reflection."
+      },
+      {
+        "num": "03",
+        "title": "Product Management",
+        "desc": "Add, edit, update, and remove products with custom imagery, specifications, and bulk MOQs without touching code."
+      },
+      {
+        "num": "04",
+        "title": "Dynamic Catalogue",
+        "desc": "The customer-facing frontend automatically synchronizes with backend updates in real time with zero layout shift."
+      },
+      {
+        "num": "05",
+        "title": "Mobile-Ready Experience",
+        "desc": "The customer-facing experience remains responsive, tactile, and blazing fast across desktop, tablet, and mobile devices."
+      }
+    ],
+    "behindTheBuild": [
+      {
+        "tag": "Architecture",
+        "title": "Admin Architecture",
+        "desc": "Engineered a separate, secure admin portal with authentication and a business-first workflow that eliminates technical complexity for non-technical team members."
+      },
+      {
+        "tag": "Data Flow",
+        "title": "Dynamic Catalogue System",
+        "desc": "Products and categories are rendered dynamically via a modular data pipeline, ensuring effortless future scaling as the catalogue expands from dozens to hundreds of sets."
+      },
+      {
+        "tag": "Autonomy",
+        "title": "Content Independence",
+        "desc": "The client achieves total operational freedom. Routine updates, pricing revisions, and brand-new seasonal collections can be published immediately without waiting on developers."
+      }
+    ],
+    "adminShowcase": [
+      {
+        "eyebrow": "01 • Security",
+        "title": "Secure Admin Login",
+        "desc": "Protected authentication gateway designed exclusively for internal management, ensuring secure access to product inventories and customer inquiries.",
+        "image": "/projects/assets/gifts-admin-login.webp",
+        "alt": "Secure Admin Login Portal",
+        "pills": [
+          "Encrypted Auth",
+          "Internal Portal",
+          "Zero-Friction Access"
+        ],
+        "reverse": false
+      },
+      {
+        "eyebrow": "02 • Hierarchy",
+        "eyebrowClass": "electric",
+        "title": "Manage Categories",
+        "desc": "Admins can create, rename, reorder, and publish new seasonal categories in seconds, structuring corporate gifts by occasion, budget, or recipient profile.",
+        "image": "/projects/assets/admin-categories.webp",
+        "alt": "Category Management Interface",
+        "pills": [
+          "Custom Ordering",
+          "Occasion Taxonomies",
+          "Instant Sync"
+        ],
+        "reverse": true
+      },
+      {
+        "eyebrow": "03 • Operations",
+        "eyebrowClass": "violet",
+        "title": "Add New Products & Edit Catalogue in Real Time",
+        "desc": "Internal staff can upload high-resolution hamper imagery, update item breakdowns, adjust bulk MOQs, and publish live product changes with a single click.",
+        "image": "/projects/assets/admin-product-form.webp",
+        "alt": "Product Creation and Real-Time Editor",
+        "pills": [
+          "No-Code Form",
+          "Asset Uploads",
+          "Real-Time Sync"
+        ],
+        "reverse": false
+      }
+    ],
+    "process": [
+      {
+        "num": "01",
+        "title": "Discovery & Taxonomy",
+        "desc": "We structured the corporate gifting product hierarchy, mapping corporate tiers, occasion filters, and bulk enquiry funnels."
+      },
+      {
+        "num": "02",
+        "title": "UX & Catalogue Structure",
+        "desc": "Designed an intuitive storefront UX and an uncluttered admin dashboard interface tailored for non-technical operations teams."
+      },
+      {
+        "num": "03",
+        "title": "Admin System Development",
+        "desc": "Built the custom backend CMS with secure auth, dynamic category CRUD, and real-time storefront synchronization."
+      },
+      {
+        "num": "04",
+        "title": "Launch & Client Handover",
+        "desc": "Tested end-to-end catalogue workflows, trained internal staff, and deployed the platform on high-speed global infrastructure."
+      }
+    ],
+    "outcomes": [
+      {
+        "title": "Client-Controlled Catalogue",
+        "desc": "The business updates, publishes, and reorganizes its catalogue in minutes without calling external engineers."
+      },
+      {
+        "title": "Faster Product Updates",
+        "desc": "New hampers and seasonal collections go live instantly, capturing peak festival and corporate buying cycles."
+      },
+      {
+        "title": "Scalable Admin System",
+        "desc": "A clean, tailored dashboard built to grow with the business as new categories and product lines are introduced."
+      },
+      {
+        "title": "Professional Corporate Experience",
+        "desc": "A bespoke digital presence that inspires confidence among procurement officers and enterprise buyers."
+      }
+    ],
+    "liveCta": {
+      "url": "https://visionarygiftsstudio.com",
+      "buttonText": "Visit Visionary Gift Studios →",
+      "titleHtml": "Experience Visionary Gift Studios<br>in <span class=\"gradient-text\">Real Time.</span>",
+      "desc": "Explore the live corporate gifting platform engineered by NC Studios, featuring curated categories, hamper customizers, and an independent backend admin system."
+    },
+    "prevProject": {
+      "title": "Visionary Adss",
+      "meta": "Advertising Agency Platform",
+      "link": "/clients/visionary-adss"
+    },
+    "nextProject": {
+      "title": "Cherry Blossom Gifts",
+      "meta": "Ordering Website & Branding",
+      "link": "/#clients"
+    }
+  }
+}
