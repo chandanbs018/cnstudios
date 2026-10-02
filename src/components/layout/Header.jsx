@@ -19,7 +19,14 @@ export default function Header() {
       <header className="site-header">
         <div className="logo-mark">
           <Link href="/" onClick={closeMenu} aria-label="NC Studios Home">
-            <img src="/logo.png" alt="NC Studios" width="99" height="99" />
+            <img
+              src="/logo.webp"
+              alt="NC Studios — Creative Agency in Bengaluru"
+              width="147"
+              height="99"
+              fetchPriority="high"
+              decoding="async"
+            />
           </Link>
         </div>
 

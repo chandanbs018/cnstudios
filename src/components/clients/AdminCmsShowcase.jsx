@@ -32,9 +32,10 @@ export default function AdminCmsShowcase({ showcase }) {
               <img
                 src={item.image}
                 alt={item.alt || item.title}
-                width={1280}
-                height={800}
+                width={920}
+                height={640}
                 loading="lazy"
+                decoding="async"
               />
             </Reveal>
 

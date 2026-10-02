@@ -72,6 +72,7 @@ export default function InteractiveGallery({ gallery }) {
                 width={1280}
                 height={800}
                 loading="lazy"
+                decoding="async"
               />
               <div className="gallery-card-body">
                 <span

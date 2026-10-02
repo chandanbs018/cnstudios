@@ -27,8 +27,8 @@ const jetbrainsMono = JetBrains_Mono({
 
 export const metadata = {
   metadataBase: new URL('https://ncstudios.in'),
-  title: 'NC Studios | Creative Agency in Bengaluru',
-  description: 'NC Studios is a creative agency in Bengaluru offering web design, branding, social media marketing, digital advertising and complete brand solutions.',
+  title: 'NC Studios | Creative Agency & Web Design Studio in Bengaluru',
+  description: 'NC Studios is a creative agency in Bengaluru specializing in web design, brand identity, digital advertising, and social media marketing for ambitious businesses.',
   icons: {
     icon: '/nc-favicon.png',
     shortcut: '/nc-favicon.png',

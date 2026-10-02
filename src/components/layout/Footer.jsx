@@ -8,7 +8,14 @@ export default function Footer() {
           <div className="footer-brand">
             <div className="logo-mark">
               <Link href="/" aria-label="NC Studios Home">
-                <img src="/logo.png" alt="NC Studios" width="60" height="60" />
+                <img
+                  src="/logo.webp"
+                  alt="NC Studios — Creative Agency in Bengaluru"
+                  width="89"
+                  height="60"
+                  loading="lazy"
+                  decoding="async"
+                />
               </Link>
             </div>
             <p>A full-service creative agency &mdash; web, identity, print and the campaigns that carry it all.</p>

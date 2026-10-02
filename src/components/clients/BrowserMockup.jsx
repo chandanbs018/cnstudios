@@ -30,6 +30,8 @@ export default function BrowserMockup({ mockup }) {
             width={1280}
             height={800}
             loading="eager"
+            fetchPriority="high"
+            decoding="async"
           />
         </div>
         <div className="macbook-base" />

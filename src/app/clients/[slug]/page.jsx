@@ -79,6 +79,7 @@ export default function CaseStudyPage({ params }) {
     description: study.metaDescription,
     inLanguage: 'en',
     datePublished: '2026-01-15',
+    dateModified: '2026-10-02',
     about: {
       '@type': 'Organization',
       name: study.overview.client,

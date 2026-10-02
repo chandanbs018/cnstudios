@@ -65,9 +65,13 @@ export default function ServicePage({ params }) {
       '@type': 'Organization',
       name: 'NC Studios',
       url: 'https://ncstudios.in/',
+      logo: 'https://ncstudios.in/logo.png',
     },
     description: service.metaDescription,
-    areaServed: 'India',
+    areaServed: {
+      '@type': 'AdministrativeArea',
+      name: 'Bengaluru, Karnataka, India',
+    },
     hasOfferCatalog: {
       '@type': 'OfferCatalog',
       name: `${service.pageTitle.split('|')[0].trim()} Services`,

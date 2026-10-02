@@ -23,6 +23,7 @@ export default function FeaturedProjectCard({ project }) {
               width={1280}
               height={800}
               loading="lazy"
+              decoding="async"
             />
           </div>
           <div className="project-info">
