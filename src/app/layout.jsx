@@ -1,4 +1,5 @@
 import { Bricolage_Grotesque, Space_Grotesk, JetBrains_Mono } from 'next/font/google';
+import Script from 'next/script';
 import '@/styles/globals.css';
 import Header from '@/components/layout/Header';
 import Footer from '@/components/layout/Footer';
@@ -43,6 +44,22 @@ export default function RootLayout({ children }) {
       className={`${bricolageGrotesque.variable} ${spaceGrotesk.variable} ${jetbrainsMono.variable}`}
     >
       <body>
+        <Script
+          strategy="afterInteractive"
+          src="https://www.googletagmanager.com/gtag/js?id=G-1WPTK0MS3L"
+        />
+        <Script
+          id="google-analytics"
+          strategy="afterInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-1WPTK0MS3L');
+            `,
+          }}
+        />
         <ScrollProgressBar />
         <CustomCursor />
         <Header />
