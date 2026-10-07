@@ -11,7 +11,7 @@ export default function ClientsSection() {
         </Reveal>
 
         <div className="work-grid">
-          {/* Card 1: Visionary Adss */}
+          {/* Card 1: Visionary Ads */}
           <Reveal
             as={TiltCard}
             href="/clients/visionary-adss"
@@ -22,7 +22,7 @@ export default function ClientsSection() {
             <div className="blob" />
             <div>
               <span className="tag">Website</span>
-              <h3 className="display">Visionary Adss</h3>
+              <h3 className="display">Visionary Ads</h3>
             </div>
             <div className="meta">
               <span>Website design &amp; development</span>
@@ -31,7 +31,7 @@ export default function ClientsSection() {
             </div>
           </Reveal>
 
-          {/* Card 2: Visionary Gift Studios */}
+          {/* Card 2: Visionary Gifts Studio */}
           <Reveal
             as={TiltCard}
             href="/clients/visionary-gift-studios"
@@ -42,7 +42,7 @@ export default function ClientsSection() {
             <div className="blob" />
             <div>
               <span className="tag">Corporate Gifting &mdash; Catalogue Website</span>
-              <h3 className="display">Visionary Gift Studios</h3>
+              <h3 className="display">Visionary Gifts Studio</h3>
             </div>
             <div className="meta">
               <span>Catalogue website</span>

@@ -6,14 +6,6 @@ export default function StatsSection() {
     <div className="stats">
       <Reveal className="stat">
         <div className="num">
-          <StatCounter target="3" />
-          <span>+</span>
-        </div>
-        <div className="label">Projects delivered</div>
-      </Reveal>
-
-      <Reveal className="stat">
-        <div className="num">
           <StatCounter target="6" />
         </div>
         <div className="label">Core disciplines</div>
@@ -21,7 +13,7 @@ export default function StatsSection() {
 
       <Reveal className="stat">
         <div className="num">
-          <StatCounter target="2025" />
+          <StatCounter target="2026" />
         </div>
         <div className="label">Studio founded</div>
       </Reveal>

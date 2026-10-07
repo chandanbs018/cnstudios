@@ -5,6 +5,7 @@ import Header from '@/components/layout/Header';
 import Footer from '@/components/layout/Footer';
 import CustomCursor from '@/components/layout/CustomCursor';
 import ScrollProgressBar from '@/components/layout/ScrollProgressBar';
+import AnalyticsListener from '@/components/analytics/AnalyticsListener';
 
 const bricolageGrotesque = Bricolage_Grotesque({
   subsets: ['latin'],
@@ -60,6 +61,7 @@ export default function RootLayout({ children }) {
             `,
           }}
         />
+        <AnalyticsListener />
         <ScrollProgressBar />
         <CustomCursor />
         <Header />

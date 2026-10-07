@@ -35,8 +35,8 @@ export async function generateMetadata({ params }) {
       images: [
         {
           url: 'https://ncstudios.in/logo.png',
-          width: 1200,
-          height: 630,
+          width: 609,
+          height: 410,
           alt: service.pageTitle,
         },
       ],

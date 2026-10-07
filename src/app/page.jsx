@@ -24,8 +24,8 @@ export const metadata = {
     images: [
       {
         url: 'https://ncstudios.in/logo.png',
-        width: 1200,
-        height: 630,
+        width: 609,
+        height: 410,
         alt: 'NC Studios — Creative Agency in Bengaluru',
       },
     ],
@@ -43,30 +43,31 @@ const structuredData = {
   '@context': 'https://schema.org',
   '@type': 'ProfessionalService',
   name: 'NC Studios',
-  url: 'https://ncstudios.in/',
+  url: 'https://ncstudios.in',
   logo: 'https://ncstudios.in/logo.png',
   image: 'https://ncstudios.in/logo.png',
   description:
-    'NC Studios is a creative agency in Bengaluru specializing in web design, brand identity, digital advertising, and social media marketing for ambitious businesses.',
-  telephone: '+91-9380263271',
+    'NC Studios is a creative agency in Bengaluru offering web design and development, brand identity, social media marketing, digital advertising, visiting cards and printing, and complete branding.',
   email: 'info@ncstudios.in',
+  telephone: '+919482420060',
   address: {
     '@type': 'PostalAddress',
     addressLocality: 'Bengaluru',
     addressRegion: 'Karnataka',
     addressCountry: 'IN',
   },
-  areaServed: {
-    '@type': 'AdministrativeArea',
-    name: 'Bengaluru, Karnataka, India',
-  },
-  knowsAbout: [
-    'Web Design',
-    'Brand Identity',
-    'Digital Advertising',
-    'Social Media Marketing',
-    'Corporate Gifting Platforms',
-    'Frontend Development',
+  areaServed: [
+    {
+      '@type': 'City',
+      name: 'Bengaluru',
+    },
+    {
+      '@type': 'Country',
+      name: 'India',
+    },
+  ],
+  sameAs: [
+    'https://www.instagram.com/_nc_studios__/',
   ],
 };
 

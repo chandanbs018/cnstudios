@@ -33,15 +33,13 @@ export default function Footer() {
               <h5>Contact</h5>
               <a href="mailto:info@ncstudios.in">info@ncstudios.in</a>
               <a href="tel:+919380263271">+91 93802 63271</a>
-              <a href="tel:+916387148179">+91 63871 48179</a>
+              <a href="tel:+919482420060">+91 94824 20060</a>
               <p>Bengaluru, India</p>
             </div>
 
             <div className="footer-col">
               <h5>Follow</h5>
-              <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">Instagram</a>
-              <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-              <a href="https://behance.net" target="_blank" rel="noopener noreferrer">Behance</a>
+              <a href="https://www.instagram.com/_nc_studios__/" target="_blank" rel="noopener noreferrer">Instagram</a>
             </div>
           </div>
         </div>

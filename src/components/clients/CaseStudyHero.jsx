@@ -29,7 +29,15 @@ export default function CaseStudyHero({ data }) {
             {data.metaItems.map((item, idx) => (
               <div className="meta-item" key={idx}>
                 <span className="meta-label">{item.label}</span>
-                <span className="meta-val">{item.value}</span>
+                <span className="meta-val">
+                  {item.link ? (
+                    <Link href={item.link} style={{ color: 'inherit', textDecoration: 'underline', textUnderlineOffset: '3px' }}>
+                      {item.value}
+                    </Link>
+                  ) : (
+                    item.value
+                  )}
+                </span>
               </div>
             ))}
           </div>

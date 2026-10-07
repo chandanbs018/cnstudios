@@ -23,6 +23,12 @@ export default function ContactForm() {
       const data = await response.json();
 
       if (response.ok && data.success) {
+        if (typeof window !== 'undefined' && typeof window.gtag === 'function') {
+          window.gtag('event', 'generate_lead', {
+            form_id: 'contact',
+            page_path: window.location.pathname,
+          });
+        }
         setStatus({
           state: 'success',
           message: 'Success! Your message has been sent. We will get back to you within a day.',

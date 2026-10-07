@@ -24,6 +24,7 @@ export async function generateMetadata({ params }) {
   if (!study) return {};
 
   const canonicalUrl = `https://ncstudios.in/clients/${study.slug}`;
+  const ogImageUrl = `https://ncstudios.in/projects/og/${study.slug}.jpg`;
 
   return {
     title: study.title,
@@ -38,7 +39,7 @@ export async function generateMetadata({ params }) {
       description: study.metaDescription,
       images: [
         {
-          url: 'https://ncstudios.in/logo.png',
+          url: ogImageUrl,
           width: 1200,
           height: 630,
           alt: study.title,
@@ -49,7 +50,7 @@ export async function generateMetadata({ params }) {
       card: 'summary_large_image',
       title: study.title,
       description: study.metaDescription,
-      images: ['https://ncstudios.in/logo.png'],
+      images: [ogImageUrl],
     },
   };
 }
@@ -97,12 +98,12 @@ export default function CaseStudyPage({ params }) {
         <BrowserMockup mockup={study.mockup} />
         <ProjectOverview overview={study.overview} eyebrow={study.eyebrow} />
         <ChallengeSection lead={study.challengeLead} challenges={study.challenges} />
-        <SolutionSection solutions={study.solutions} />
+        <SolutionSection solutions={study.solutions} subtitle={study.solutionSubtitle} />
         <BehindTheBuild decisions={study.behindTheBuild} />
         {study.gallery && <InteractiveGallery gallery={study.gallery} />}
         {study.adminShowcase && <AdminCmsShowcase showcase={study.adminShowcase} />}
         <CaseStudyProcess process={study.process} />
-        <OutcomesSection outcomes={study.outcomes} />
+        <OutcomesSection outcomes={study.outcomes} subtitle={study.outcomesSubtitle} />
         <LiveWebsiteCta liveCta={study.liveCta} />
         <ProjectNav prevProject={study.prevProject} nextProject={study.nextProject} />
       </main>

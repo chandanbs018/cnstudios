@@ -1,12 +1,16 @@
 {
   "visionary-adss": {
     "slug": "visionary-adss",
-    "title": "Visionary Adss Case Study | NC Studios",
+    "title": "Visionary Ads Case Study | NC Studios",
     "metaDescription": "How NC Studios designed and developed a lead-generation website for Visionary Adss, creating a stronger digital presence, clearer service communication, and a conversion-focused user experience.",
     "eyebrow": "Advertising Agency Platform",
-    "heroTitleHtml": "Visionary <span class=\"accent gradient-text\">Adss</span>",
+    "heroTitleHtml": "Visionary <span class=\"accent gradient-text\">Ads</span>",
     "heroSubtitle": "A modern lead-generation website built to position Visionary Adss as a credible advertising partner while making it effortless for potential clients to understand services and start conversations.",
     "metaItems": [
+      {
+        "label": "Client",
+        "value": "Visionary Ads"
+      },
       {
         "label": "Industry",
         "value": "Advertising & Branding"
@@ -16,15 +20,12 @@
         "value": "Bengaluru, India"
       },
       {
-        "label": "Year",
-        "value": "2026"
-      },
-      {
-        "label": "Services",
-        "value": "Website Design • Frontend Development • Lead Generation • Responsive Experience"
+        "label": "Services delivered",
+        "value": "Web Design & Development",
+        "link": "/services/web-design"
       }
     ],
-    "stampText": "NC STUDIOS • CLIENT CASE STUDY • 2026 • ",
+    "stampText": "NC STUDIOS \u2022 CLIENT CASE STUDY \u2022 2026 \u2022 ",
     "mockup": {
       "url": "https://visionaryadss.in/",
       "tab": "Visionary Ads",
@@ -32,7 +33,7 @@
       "alt": "Visionary Adss Production Homepage"
     },
     "overview": {
-      "client": "Visionary Adss",
+      "client": "Visionary Ads",
       "industry": "Advertising & Branding",
       "timeline": "4 Weeks (Discovery to Launch)",
       "deliverables": [
@@ -46,10 +47,10 @@
       "paragraphs": [
         "In the advertising industry, first impressions dictate commercial authority. When enterprise brands and high-growth businesses seek an advertising agency in Bengaluru, they compete on trust, creative caliber, and execution confidence.",
         "Visionary Adss required more than a basic static brochure website. The objective was to engineer a high-converting lead-generation platform that communicates scale within seconds, structures multi-disciplinary capabilities across outdoor, digital, and branding, and creates an effortless, frictionless path for visitors to start project conversations.",
-        "Our approach focused on visual authority, structural clarity, and strategic conversion pathways—ensuring the website acts as an active, round-the-clock salesperson for the agency."
+        "Our approach focused on visual authority, structural clarity, and strategic conversion pathways\u2014ensuring the website acts as an active, round-the-clock salesperson for the agency."
       ]
     },
-    "challengeLead": "Advertising agencies compete in a relentless marketplace where attention spans are measured in seconds. The website had to work as a salesperson—not just a portfolio — establishing instant credibility, clarifying complex service tiers, and driving qualified inbound inquiries.",
+    "challengeLead": "Advertising agencies compete in a relentless marketplace where attention spans are measured in seconds. The website had to work as a salesperson\u2014not just a portfolio \u2014 establishing instant credibility, clarifying complex service tiers, and driving qualified inbound inquiries.",
     "challenges": [
       {
         "idx": "01",
@@ -123,14 +124,14 @@
     ],
     "gallery": [
       {
-        "tag": "01 • STRATEGIC HOMEPAGE",
+        "tag": "01 \u2022 STRATEGIC HOMEPAGE",
         "title": "Hero Typography & Positioning",
         "desc": "High-contrast above-the-fold value proposition establishing immediate authority and credibility.",
         "image": "/projects/assets/adss-home-desktop.webp",
         "alt": "Strategic Homepage UI"
       },
       {
-        "tag": "02 • SERVICE ARCHITECTURE",
+        "tag": "02 \u2022 SERVICE ARCHITECTURE",
         "tagColor": "electric",
         "title": "Modular Capabilities Matrix",
         "desc": "Structured grid breakdown of outdoor hoardings, digital marketing, and government outreach.",
@@ -138,7 +139,7 @@
         "alt": "Services Architecture Grid"
       },
       {
-        "tag": "03 • RESPONSIVE EXPERIENCE",
+        "tag": "03 \u2022 RESPONSIVE EXPERIENCE",
         "tagColor": "violet",
         "title": "Mobile Ergonomics",
         "desc": "Touch-optimized layouts and thumb-friendly pathways built for on-the-go corporate reviews.",
@@ -146,14 +147,14 @@
         "alt": "Mobile Experience"
       },
       {
-        "tag": "04 • CONVERSION FLOW",
+        "tag": "04 \u2022 CONVERSION FLOW",
         "title": "Lead Generation & Inquiries",
         "desc": "Frictionless consultation pathways and direct communication channels engineered to capture high-intent leads.",
         "image": "/projects/assets/adss-contact.webp",
         "alt": "Inquiry Funnel Flow"
       },
       {
-        "tag": "05 • BRAND IDENTITY",
+        "tag": "05 \u2022 BRAND IDENTITY",
         "tagColor": "electric",
         "title": "Design System & Signage",
         "desc": "Bespoke marks, color palettes, and typographic scales built for cross-platform authority.",
@@ -161,7 +162,7 @@
         "alt": "Brand Identity System"
       },
       {
-        "tag": "06 • CORPORATE COLLATERAL",
+        "tag": "06 \u2022 CORPORATE COLLATERAL",
         "tagColor": "violet",
         "title": "Executive Stationery",
         "desc": "Premium visiting card layouts with spot-UV embossing specifications and print collateral.",
@@ -211,7 +212,7 @@
     ],
     "liveCta": {
       "url": "https://visionaryadss.in/",
-      "buttonText": "Visit Visionary Adss →",
+      "buttonText": "Visit Visionary Adss \u2192",
       "titleHtml": "Explore Visionary Adss<br>in <span class=\"gradient-text\">Real Time.</span>",
       "desc": "Experience the live advertising agency platform engineered by NC Studios, complete with fast loading, clear service communication, and conversion-focused interactions."
     },
@@ -224,16 +225,22 @@
       "title": "Visionary Gift Studios",
       "meta": "Corporate Gifting Platform",
       "link": "/clients/visionary-gift-studios"
-    }
+    },
+    "solutionSubtitle": "A lead-generation website built around clear services, strong hierarchy and an easy inquiry path.",
+    "outcomesSubtitle": "What the new site is designed to do for the agency."
   },
   "visionary-gift-studios": {
     "slug": "visionary-gift-studios",
-    "title": "Visionary Gift Studios Case Study | NC Studios",
+    "title": "Visionary Gifts Studio Case Study | NC Studios",
     "metaDescription": "How NC Studios designed and engineered a custom corporate gifting platform with an independent backend admin dashboard for Visionary Gift Studios.",
     "eyebrow": "Corporate Gifting Platform",
-    "heroTitleHtml": "Visionary <span class=\"accent gradient-text\">Gift Studios</span>",
-    "heroSubtitle": "A corporate gifting platform designed to let the business manage its catalogue independently through a custom-built admin dashboard—without relying on developers for everyday updates.",
+    "heroTitleHtml": "Visionary <span class=\"accent gradient-text\">Gifts Studio</span>",
+    "heroSubtitle": "A corporate gifting platform designed to let the business manage its catalogue independently through a custom-built admin dashboard\u2014without relying on developers for everyday updates.",
     "metaItems": [
+      {
+        "label": "Client",
+        "value": "Visionary Gifts Studio"
+      },
       {
         "label": "Industry",
         "value": "Corporate Gifting"
@@ -243,15 +250,12 @@
         "value": "Bengaluru, India"
       },
       {
-        "label": "Year",
-        "value": "2026"
-      },
-      {
-        "label": "Services",
-        "value": "Website • Custom CMS • Admin Dashboard • Product Management"
+        "label": "Services delivered",
+        "value": "Web Design & Development",
+        "link": "/services/web-design"
       }
     ],
-    "stampText": "NC STUDIOS • CLIENT CASE STUDY • 2026 • ",
+    "stampText": "NC STUDIOS \u2022 CLIENT CASE STUDY \u2022 2026 \u2022 ",
     "stampFill": "#5ef1ff",
     "mockup": {
       "url": "https://visionarygiftsstudio.com",
@@ -260,7 +264,7 @@
       "alt": "Visionary Gift Studios Production Storefront"
     },
     "overview": {
-      "client": "Visionary Gift Studios",
+      "client": "Visionary Gifts Studio",
       "industry": "Corporate Gifting",
       "timeline": "4 Weeks (Discovery to Handover)",
       "deliverables": [
@@ -271,14 +275,14 @@
         "Real-Time Catalogue Synchronization",
         "B2B RFQ & Inquiry Funnel"
       ],
-      "headline": "Building an autonomous business system—not just a static website.",
+      "headline": "Building an autonomous business system\u2014not just a static website.",
       "paragraphs": [
-        "Visionary Gift Studios required more than a conventional gifting catalogue. In the fast-paced corporate gifting industry, inventory is fluid—seasonal hampers launch every quarter, festive collections demand fast turnarounds, and custom B2B packaging requires agile presentation.",
+        "Visionary Gift Studios required more than a conventional gifting catalogue. In the fast-paced corporate gifting industry, inventory is fluid\u2014seasonal hampers launch every quarter, festive collections demand fast turnarounds, and custom B2B packaging requires agile presentation.",
         "Rather than building a standard static storefront that would force the client to rely on external developers for every text change or product addition, NC Studios engineered a custom corporate gifting platform with a dedicated backend admin system.",
-        "The platform gives the business complete operational independence: internal staff can add hampers, create new gifting categories, update bulk minimum order quantities, and publish seasonal collections instantly—all from an intuitive internal dashboard without touching a single line of code."
+        "The platform gives the business complete operational independence: internal staff can add hampers, create new gifting categories, update bulk minimum order quantities, and publish seasonal collections instantly\u2014all from an intuitive internal dashboard without touching a single line of code."
       ]
     },
-    "challengeLead": "Corporate gifting businesses move fast, but standard web solutions create massive operational bottlenecks. The client needed complete operational control after launch — eliminating developer dependencies and giving the internal team the power to maintain their catalogue in real time.",
+    "challengeLead": "Corporate gifting businesses move fast, but standard web solutions create massive operational bottlenecks. The client needed complete operational control after launch \u2014 eliminating developer dependencies and giving the internal team the power to maintain their catalogue in real time.",
     "challenges": [
       {
         "idx": "01",
@@ -352,7 +356,7 @@
     ],
     "adminShowcase": [
       {
-        "eyebrow": "01 • Security",
+        "eyebrow": "01 \u2022 Security",
         "title": "Secure Admin Login",
         "desc": "Protected authentication gateway designed exclusively for internal management, ensuring secure access to product inventories and customer inquiries.",
         "image": "/projects/assets/gifts-admin-login.webp",
@@ -365,7 +369,7 @@
         "reverse": false
       },
       {
-        "eyebrow": "02 • Hierarchy",
+        "eyebrow": "02 \u2022 Hierarchy",
         "eyebrowClass": "electric",
         "title": "Manage Categories",
         "desc": "Admins can create, rename, reorder, and publish new seasonal categories in seconds, structuring corporate gifts by occasion, budget, or recipient profile.",
@@ -379,7 +383,7 @@
         "reverse": true
       },
       {
-        "eyebrow": "03 • Operations",
+        "eyebrow": "03 \u2022 Operations",
         "eyebrowClass": "violet",
         "title": "Add New Products & Edit Catalogue in Real Time",
         "desc": "Internal staff can upload high-resolution hamper imagery, update item breakdowns, adjust bulk MOQs, and publish live product changes with a single click.",
@@ -435,7 +439,7 @@
     ],
     "liveCta": {
       "url": "https://visionarygiftsstudio.com",
-      "buttonText": "Visit Visionary Gift Studios →",
+      "buttonText": "Visit Visionary Gift Studios \u2192",
       "titleHtml": "Experience Visionary Gift Studios<br>in <span class=\"gradient-text\">Real Time.</span>",
       "desc": "Explore the live corporate gifting platform engineered by NC Studios, featuring curated categories, hamper customizers, and an independent backend admin system."
     },
@@ -448,6 +452,8 @@
       "title": "Cherry Blossom Gifts",
       "meta": "Ordering Website & Branding",
       "link": "/#clients"
-    }
+    },
+    "solutionSubtitle": "A custom admin dashboard and dynamic catalogue that put product management in the client's hands.",
+    "outcomesSubtitle": "What changed for the business after handover."
   }
 }

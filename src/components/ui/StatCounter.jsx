@@ -9,7 +9,9 @@ export default function StatCounter({
   suffix = '',
   prefix = '',
 }) {
-  const [displayValue, setDisplayValue] = useState('0');
+  const [displayValue, setDisplayValue] = useState(() =>
+    target !== undefined && target !== null ? String(target) : '0'
+  );
   const elRef = useRef(null);
 
   useEffect(() => {

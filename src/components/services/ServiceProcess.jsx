@@ -9,7 +9,7 @@ export default function ServiceProcess({ data }) {
             <span className="eyebrow">Execution Model</span>
             <h2 className="display">Our 4-Step Process</h2>
           </div>
-          <p>A disciplined sprint from concept discovery to full production deployment.</p>
+          <p>{data.processSubtitle || 'A disciplined sprint from concept discovery to full production deployment.'}</p>
         </Reveal>
 
         <Reveal className="process-grid">

@@ -14,7 +14,7 @@ export default function HeroSection() {
         </h1>
         <div className="hero-sub">
           <p>
-            NC Studios is a full-service creative shop. Websites, identity, print and the campaigns that carry it all &mdash; designed and built by one team, start to finish.
+            NC Studios is a Bengaluru creative agency for startups, SMEs and D2C brands. We design websites, build brand identities, and run social media and ads &mdash; one team, start to finish.
           </p>
           <StampBadge
             text="AVAILABLE FOR PROJECTS • AVAILABLE FOR PROJECTS • "

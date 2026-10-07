@@ -9,7 +9,7 @@ export default function DeliverablesSection({ data }) {
             <span className="eyebrow electric">Scope of Work</span>
             <h2 className="display">Deliverables</h2>
           </div>
-          <p>Everything required to launch a high-converting, modern digital presence from start to finish.</p>
+          <p>{data.deliverablesSubtitle || 'Everything required to launch a high-converting, modern digital presence from start to finish.'}</p>
         </Reveal>
 
         <div className="deliverables-grid">

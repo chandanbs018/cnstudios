@@ -1,12 +1,12 @@
 {
   "web-design": {
     "slug": "web-design",
-    "pageTitle": "Web Design & Development | NC Studios",
+    "pageTitle": "Web Design & Development Company in Bengaluru | NC Studios",
     "metaDescription": "Custom-built, high-performance websites and digital platforms designed to convert. Engineered by NC Studios in Bengaluru.",
     "h1Html": "Web Design &amp; <span class=\"gradient-text\">Dev</span>",
-    "eyebrow": "Service 01 • Digital Experience",
-    "subtitle": "Custom-built, fast-loading websites and digital business systems designed to convert visitors into high-intent clients — not just look good.",
-    "stampText": "NC STUDIOS • WEB ENGINEERING • 2026 •",
+    "eyebrow": "Service 01 \u2022 Digital Experience",
+    "subtitle": "Custom-built, fast-loading websites and digital business systems designed to convert visitors into high-intent clients \u2014 not just look good.",
+    "stampText": "NC STUDIOS \u2022 WEB ENGINEERING \u2022 2026 \u2022",
     "metaItems": [
       {
         "label": "Discipline",
@@ -25,7 +25,7 @@
         "value": "3 to 5 Weeks Sprint"
       }
     ],
-    "problemLead": "Most business websites are slow, generic template dumps that fail to generate pipeline.\n       We build bespoke digital storefronts that command authority —\n      turning casual traffic into qualified inbound leads and measurable commercial growth.",
+    "problemLead": "Most business websites are slow, generic template dumps that fail to generate pipeline.\n       We build bespoke digital storefronts that command authority \u2014\n      turning casual traffic into qualified inbound leads and measurable commercial growth.",
     "problems": [
       {
         "idx": "01",
@@ -145,17 +145,19 @@
         "BENGALURU"
       ],
       "titleHtml": "Ready to build a website<br>that <span class=\"gradient-text\">commands authority?</span>",
-      "desc": "Let’s discuss your requirements and design a high-converting digital platform that turns visitors into clients."
-    }
+      "desc": "Let\u2019s discuss your requirements and design a high-converting digital platform that turns visitors into clients."
+    },
+    "deliverablesSubtitle": "From wireframes to a live site: design, development, CMS and launch checks, all handled by one team.",
+    "processSubtitle": "Four stages from discovery to launch, typically 3 to 5 weeks."
   },
   "brand-identity": {
     "slug": "brand-identity",
-    "pageTitle": "Brand Identity & Logo Design | NC Studios",
+    "pageTitle": "Brand Identity & Logo Design in Bengaluru | NC Studios",
     "metaDescription": "Distinctive logomarks, typography systems, and comprehensive brand identity design built for market authority. Crafted by NC Studios.",
     "h1Html": "Brand Identity &amp; <span class=\"gradient-text\">Logo</span>",
-    "eyebrow": "Service 02 • Visual Authority",
-    "subtitle": "Distinctive logomarks, typography systems, and comprehensive visual identities built to hold up across every application — from billboard headers to app icons.",
-    "stampText": "NC STUDIOS • BRAND IDENTITY • 2026 •",
+    "eyebrow": "Service 02 \u2022 Visual Authority",
+    "subtitle": "Distinctive logomarks, typography systems, and comprehensive visual identities built to hold up across every application \u2014 from billboard headers to app icons.",
+    "stampText": "NC STUDIOS \u2022 BRAND IDENTITY \u2022 2026 \u2022",
     "metaItems": [
       {
         "label": "Discipline",
@@ -174,7 +176,7 @@
         "value": "2 to 3 Weeks Sprint"
       }
     ],
-    "problemLead": "Generic logos and fragmented graphics make even capable companies look amateur.\n       We create cohesive visual identities that inspire instant trust —\n      ensuring your brand stands out clearly across digital, print, and physical touchpoints.",
+    "problemLead": "Generic logos and fragmented graphics make even capable companies look amateur.\n       We create cohesive visual identities that inspire instant trust \u2014\n      ensuring your brand stands out clearly across digital, print, and physical touchpoints.",
     "problems": [
       {
         "idx": "01",
@@ -263,10 +265,10 @@
     ],
     "featuredProject": {
       "image": "/projects/assets/adss-home-desktop.webp",
-      "imageAlt": "Visionary Adss Brand Identity",
+      "imageAlt": "Visionary Ads Brand Identity",
       "eyebrow": "Case Study",
-      "title": "Visionary Adss",
-      "desc": "A commanding, high-contrast visual identity and typography system built to position an advertising powerhouse as a tier-one market leader across South India.",
+      "title": "Visionary Ads",
+      "desc": "Brand identity presentation and a typographic and colour system for Visionary Ads, delivered alongside their new website.",
       "link": "/clients/visionary-adss"
     },
     "faqs": [
@@ -294,17 +296,19 @@
         "BENGALURU"
       ],
       "titleHtml": "Ready to build an identity<br>that <span class=\"gradient-text\">stands out?</span>",
-      "desc": "Let’s craft a timeless visual system that establishes instant market recognition and customer loyalty."
-    }
+      "desc": "Let\u2019s craft a timeless visual system that establishes instant market recognition and customer loyalty."
+    },
+    "deliverablesSubtitle": "The files and guidelines you keep: logo system, colour and type standards, brand guidelines and supporting graphics.",
+    "processSubtitle": "Four stages from audit to handover, typically 2 to 3 weeks."
   },
   "visiting-cards": {
     "slug": "visiting-cards",
-    "pageTitle": "Visiting Cards & Printing | NC Studios",
+    "pageTitle": "Visiting Card Design & Printing in Bengaluru | NC Studios",
     "metaDescription": "Luxury visiting cards, brochures, bespoke packaging, and premium print collateral that leave a lasting impression. Engineered by NC Studios.",
     "h1Html": "Visiting Cards &amp; <span class=\"gradient-text\">Printing</span>",
-    "eyebrow": "Service 03 • Tactile Print & Collateral",
-    "subtitle": "Visiting cards, brochures, packaging and branded materials that leave a lasting impression — crafted with premium paper stocks, spot UV, and precision foil finishes.",
-    "stampText": "NC STUDIOS • LUXURY PRINTING • 2026 •",
+    "eyebrow": "Service 03 \u2022 Tactile Print & Collateral",
+    "subtitle": "Visiting cards, brochures, packaging and branded materials that leave a lasting impression \u2014 crafted with premium paper stocks, spot UV, and precision foil finishes.",
+    "stampText": "NC STUDIOS \u2022 LUXURY PRINTING \u2022 2026 \u2022",
     "metaItems": [
       {
         "label": "Discipline",
@@ -316,14 +320,14 @@
       },
       {
         "label": "Paper Stock",
-        "value": "350–600 GSM Cotton, Matte, Soft-Touch"
+        "value": "350\u2013600 GSM Cotton, Matte, Soft-Touch"
       },
       {
         "label": "Production",
         "value": "Pan-India Delivery with Pre-Press QA"
       }
     ],
-    "problemLead": "Flimsy cards and cheap print collateral destroy credibility in in-person meetings.\n       We craft heavyweight, tactile physical assets —\n      ensuring your brand exudes luxury, authority, and meticulous attention to detail the second someone touches it.",
+    "problemLead": "Flimsy cards and cheap print collateral destroy credibility in in-person meetings.\n       We craft heavyweight, tactile physical assets \u2014\n      ensuring your brand exudes luxury, authority, and meticulous attention to detail the second someone touches it.",
     "problems": [
       {
         "idx": "01",
@@ -350,7 +354,7 @@
       {
         "num": "01",
         "title": "Luxury Business Cards",
-        "desc": "Thick 400–600 GSM multi-ply cotton or velvet matte cards with custom spot finishes.",
+        "desc": "Thick 400\u2013600 GSM multi-ply cotton or velvet matte cards with custom spot finishes.",
         "points": [
           "Metallic Gold, Silver & Holographic Foil",
           "Raised Spot UV & Tactile Texture Accents",
@@ -412,10 +416,10 @@
     ],
     "featuredProject": {
       "image": "/projects/assets/gallery-adss-cards.svg",
-      "imageAlt": "Visionary Adss Luxury Business Cards",
+      "imageAlt": "Visionary Ads Luxury Business Cards",
       "eyebrow": "Case Study Highlight",
-      "title": "Visionary Adss Stationery",
-      "desc": "Custom matte black visiting cards engineered with raised spot UV accents and metallic foil logomarks for agency executive leadership.",
+      "title": "Visionary Ads Stationery",
+      "desc": "Premium visiting card layouts with spot UV and embossing specifications for Visionary Ads executives.",
       "link": "/clients/visionary-adss"
     },
     "faqs": [
@@ -444,16 +448,18 @@
       ],
       "titleHtml": "Ready to create print assets<br>people <span class=\"gradient-text\">remember?</span>",
       "desc": "Upgrade your visiting cards, corporate stationery, and packaging with luxury paper stocks and bespoke finishes."
-    }
+    },
+    "deliverablesSubtitle": "From material choice to doorstep delivery: cards, stationery, brochures and packaging, proofed before print.",
+    "processSubtitle": "Four stages from material selection to dispatch."
   },
   "social-media": {
     "slug": "social-media",
-    "pageTitle": "Social Media Marketing | NC Studios",
+    "pageTitle": "Social Media Marketing Agency in Bengaluru | NC Studios",
     "metaDescription": "Content strategy, editorial calendars, visual design, and community management built to turn followers into loyal brand advocates. Engineered by NC Studios.",
     "h1Html": "Social Media <span class=\"gradient-text\">Marketing</span>",
-    "eyebrow": "Service 04 • Content & Community",
+    "eyebrow": "Service 04 \u2022 Content & Community",
     "subtitle": "Content strategy, visual storytelling, editorial calendars, and community management built to turn your social channels into a feed worth following and a reliable source of commercial demand.",
-    "stampText": "NC STUDIOS • SOCIAL CONTENT • 2026 •",
+    "stampText": "NC STUDIOS \u2022 SOCIAL CONTENT \u2022 2026 \u2022",
     "metaItems": [
       {
         "label": "Discipline",
@@ -472,7 +478,7 @@
         "value": "Monthly Editorial Sprints"
       }
     ],
-    "problemLead": "Posting random stock graphics with zero strategic intent yields zero business impact.\n       We build purposeful, high-engagement content engines —\n      establishing brand authority, educating your buyers, and turning social impressions into qualified inbound inquiries.",
+    "problemLead": "Posting random stock graphics with zero strategic intent yields zero business impact.\n       We build purposeful, high-engagement content engines \u2014\n      establishing brand authority, educating your buyers, and turning social impressions into qualified inbound inquiries.",
     "problems": [
       {
         "idx": "01",
@@ -537,15 +543,29 @@
         ]
       }
     ],
-    "process": [],
-    "featuredProject": {
-      "image": "/projects/assets/gallery-adss-social.svg",
-      "imageAlt": "Visionary Adss Social Media Campaign Creatives",
-      "eyebrow": "Case Study Highlight",
-      "title": "Visionary Adss Social Campaign",
-      "desc": "High-conversion carousel creative templates and campaign visuals that generated a surge in direct agency consultation inquiries across Instagram and LinkedIn.",
-      "link": "/clients/visionary-adss"
-    },
+    "process": [
+      {
+        "num": "01",
+        "title": "Audit & Positioning",
+        "desc": "We review your brand, audience and competitors to set the content pillars."
+      },
+      {
+        "num": "02",
+        "title": "Content Calendar",
+        "desc": "A monthly editorial calendar with post formats, topics and dates."
+      },
+      {
+        "num": "03",
+        "title": "Creative & Copy",
+        "desc": "Carousels, static posts, reels and stories designed and written to match your brand."
+      },
+      {
+        "num": "04",
+        "title": "Publish & Review",
+        "desc": "Approved posts go live on schedule, followed by a monthly performance review."
+      }
+    ],
+    "featuredProject": null,
     "faqs": [
       {
         "q": "How often will you post on our accounts?",
@@ -571,17 +591,19 @@
         "BENGALURU"
       ],
       "titleHtml": "Ready to build a feed<br>that <span class=\"gradient-text\">commands attention?</span>",
-      "desc": "Let’s transform your social presence with bespoke design, strategic storytelling, and consistent commercial momentum."
-    }
+      "desc": "Let\u2019s transform your social presence with bespoke design, strategic storytelling, and consistent commercial momentum."
+    },
+    "deliverablesSubtitle": "A monthly content system: strategy, creative, copy, scheduling and a performance review.",
+    "processSubtitle": "Four stages from audit to monthly reporting."
   },
   "digital-advertising": {
     "slug": "digital-advertising",
-    "pageTitle": "Digital Advertising & Media Campaigns | NC Studios",
+    "pageTitle": "Digital Advertising Agency in Bengaluru | NC Studios",
     "metaDescription": "High-performance paid advertising campaigns across Meta, Google, and outdoor media engineered for measurable ROAS and lead generation. Built by NC Studios.",
     "h1Html": "Digital <span class=\"gradient-text\">Advertising</span>",
-    "eyebrow": "Service 05 • Performance Marketing",
-    "subtitle": "Paid campaigns across Meta, Google, and high-visibility media channels — engineered on rigorous audience targeting, high-converting creative, and real ROI numbers.",
-    "stampText": "NC STUDIOS • PAID ADVERTISING • 2026 •",
+    "eyebrow": "Service 05 \u2022 Performance Marketing",
+    "subtitle": "Paid campaigns across Meta, Google, and high-visibility media channels \u2014 engineered on rigorous audience targeting, high-converting creative, and real ROI numbers.",
+    "stampText": "NC STUDIOS \u2022 PAID ADVERTISING \u2022 2026 \u2022",
     "metaItems": [
       {
         "label": "Channels",
@@ -600,7 +622,7 @@
         "value": "Live Analytics Dashboard & Weekly Syncs"
       }
     ],
-    "problemLead": "Most advertising campaigns bleed ad spend on low-intent clicks without generating qualified pipeline.\n       We connect high-converting creative with surgical media targeting —\n      ensuring every rupee spent drives measurable customer acquisition and commercial returns.",
+    "problemLead": "Most advertising campaigns bleed ad spend on low-intent clicks without generating qualified pipeline.\n       We connect high-converting creative with surgical media targeting \u2014\n      ensuring every rupee spent drives measurable customer acquisition and commercial returns.",
     "problems": [
       {
         "idx": "01",
@@ -687,18 +709,11 @@
         "desc": "Pruning unprofitable ad variations, scaling winning audiences, and maximizing overall campaign ROAS."
       }
     ],
-    "featuredProject": {
-      "image": "/projects/assets/gallery-adss-services.svg",
-      "imageAlt": "Visionary Adss Paid Campaign Infrastructure",
-      "eyebrow": "Case Study Highlight",
-      "title": "Visionary Adss Campaign Platform",
-      "desc": "Full-scale advertising infrastructure structuring high-visibility arterial highway hoardings and digital performance marketing for enterprise acquisition in Bengaluru.",
-      "link": "/clients/visionary-adss"
-    },
+    "featuredProject": null,
     "faqs": [
       {
         "q": "What ad budget should we start with?",
-        "a": "We typically recommend a minimum monthly ad spend of ₹40,000 to ₹1,00,000 to ensure sufficient testing volume and rapid algorithmic learning."
+        "a": "We typically recommend a minimum monthly ad spend of \u20b940,000 to \u20b91,00,000 to ensure sufficient testing volume and rapid algorithmic learning."
       },
       {
         "q": "Who owns the ad accounts and creative assets?",
@@ -720,17 +735,19 @@
         "BENGALURU"
       ],
       "titleHtml": "Ready to scale paid ads<br>with <span class=\"gradient-text\">predictable returns?</span>",
-      "desc": "Let’s engineer a performance advertising funnel that drives qualified customer acquisition month after month."
-    }
+      "desc": "Let\u2019s engineer a performance advertising funnel that drives qualified customer acquisition month after month."
+    },
+    "deliverablesSubtitle": "Strategy, creative, media buying and tracking, managed inside your own ad accounts.",
+    "processSubtitle": "Four stages from funnel audit to scaling."
   },
   "complete-branding": {
     "slug": "complete-branding",
-    "pageTitle": "Complete Branding & Systems | NC Studios",
+    "pageTitle": "Complete Branding Services in Bengaluru | NC Studios",
     "metaDescription": "End-to-end brand strategy, verbal messaging, visual identity, digital platforms, and collateral united into one powerful business system. Crafted by NC Studios.",
     "h1Html": "Complete <span class=\"gradient-text\">Branding</span>",
-    "eyebrow": "Service 06 • Full-Service System",
-    "subtitle": "Strategy, verbal voice, visual identity, digital platforms, and tactile print collateral — every single touchpoint tied together into one unified commercial system run by one studio team.",
-    "stampText": "NC STUDIOS • FULL BRANDING SYSTEM • 2026 •",
+    "eyebrow": "Service 06 \u2022 Full-Service System",
+    "subtitle": "Strategy, verbal voice, visual identity, digital platforms, and tactile print collateral \u2014 every single touchpoint tied together into one unified commercial system run by one studio team.",
+    "stampText": "NC STUDIOS \u2022 FULL BRANDING SYSTEM \u2022 2026 \u2022",
     "metaItems": [
       {
         "label": "Discipline",
@@ -749,7 +766,7 @@
         "value": "6 to 8 Weeks Complete Rollout"
       }
     ],
-    "problemLead": "Juggling separate freelance designers, web developers, print shops, and ad agencies leads to chaotic inconsistency.\n       We build your entire brand ecosystem under one roof —\n      ensuring seamless continuity from your boardroom pitch deck to your live website and customer unboxing.",
+    "problemLead": "Juggling separate freelance designers, web developers, print shops, and ad agencies leads to chaotic inconsistency.\n       We build your entire brand ecosystem under one roof \u2014\n      ensuring seamless continuity from your boardroom pitch deck to your live website and customer unboxing.",
     "problems": [
       {
         "idx": "01",
@@ -838,10 +855,10 @@
     ],
     "featuredProject": {
       "image": "/projects/assets/gifts-home-desktop.webp",
-      "imageAlt": "Visionary Gift Studios Brand System",
-      "eyebrow": "Full Branding Case Study",
-      "title": "Visionary Gift Studios",
-      "desc": "A comprehensive commercial transformation spanning brand identity, executive corporate positioning, a custom digital catalogue platform, and an internal no-code admin CMS.",
+      "imageAlt": "Visionary Gifts Studio Brand System",
+      "eyebrow": "Related Project",
+      "title": "Visionary Gifts Studio",
+      "desc": "A corporate gifting website with a custom CMS and admin dashboard, built by NC Studios for Visionary Gifts Studio.",
       "link": "/clients/visionary-gift-studios"
     },
     "faqs": [
@@ -870,6 +887,8 @@
       ],
       "titleHtml": "Ready to build your complete<br><span class=\"gradient-text\">brand ecosystem?</span>",
       "desc": "Partner with one unified studio team to create your brand strategy, identity, website, and executive print collateral."
-    }
+    },
+    "deliverablesSubtitle": "Strategy, identity, website and print launch kit, delivered as one connected project.",
+    "processSubtitle": "Four stages from discovery to a synchronized launch, typically 6 to 8 weeks."
   }
 }
